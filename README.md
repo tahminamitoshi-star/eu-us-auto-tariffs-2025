@@ -30,6 +30,7 @@ Because 97.5% of US car imports from the EU are between related parties (US Cens
 | Eurostat Comext, monthly bulk files `full_v2_202301` to `full_v2_202607` ([download](https://ec.europa.eu/eurostat/api/dissemination/files/?sort=1&dir=comext%2FCOMEXT_DATA%2FPRODUCTS)) | EU exports and imports by member state, 8-digit product, partner and month | No (about 17 GB unpacked). The extracts built from them are included, see below |
 | `7_processed_data/exports_ch84_87.parquet` | EU exports of HS chapters 84-87, exporter x CN8 x destination x month, Jan 2023 - Jun 2026; built by step05 | Yes |
 | `7_processed_data/panel_v1.parquet` | Estimation panel, exporter x CN8 x destination x month with zeros filled; built by step20 | Yes |
+| US tariff schedule (USITC), General rates of duty, chapters 84-87, exported from [hts.usitc.gov](https://hts.usitc.gov) on 19 October 2026 | US normal (MFN) duty of each product, for the tariff wedge (step40) | Yes, `2_raw_data/usitc_hts` |
 | ECB euro reference rate, USD per EUR, monthly (series EXR.M.USD.EUR.SP00.A) | Converting euro values to dollars (step11) | Yes, `2_raw_data/ecb_exchange_rates` |
 | US tariff legal texts (Federal Register) | Product lists of Proclamations 10908 (cars and parts) and 10984 (trucks), steel and aluminium derivative lists, Section 122 exemptions | Code lists extracted from the texts, `3_tariff_documents/*.csv`. The PDFs are on govinfo.gov |
 
@@ -76,6 +77,7 @@ The step numbers follow the author's research log; each script's first lines say
 | step37 | Variance estimators, pre-trend tests, comparison markets, control groups, size heterogeneity in prices, crosswalk | Sections 4.1-4.5, Table 2, Appendices B and C |
 | step38b | Permutation diagnostic, 2,000 random and 2,000 size-matched draws (seeds 2027 and 2028), Figure 2 | Section 4.2, Figure 2 |
 | step39 | Observations and clusters for Table 1; weight per car | Table 1, Section 4.4 |
+| step40 | US normal duties of control products; tariff wedge by period and the implied response | Section 4.6, Table 6 |
 
 `step38_placebo_parallel.py` is the first version of the placebo run; it uses too much memory on an ordinary PC and is kept only because its random draws are the same as those of step38b. Use step38b.
 
@@ -85,6 +87,7 @@ Run times on a laptop: most scripts take under 5 minutes; step37 about 7 minutes
 
 ```
 2_raw_data/ecb_exchange_rates/   ECB exchange rates
+2_raw_data/usitc_hts/            US tariff schedule, chapters 84-87
 3_tariff_documents/              product codes extracted from the US legal texts
 4_code/                          the scripts
 5_results/                       saved results (CSV and text tables)
