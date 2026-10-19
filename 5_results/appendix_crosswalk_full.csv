@@ -1,0 +1,956 @@
+hs6,annex_status,group_v3,group_v4,aircraft_dual_use,ag_tractor,truck_bus_vehicle,truck_part,metal_2025_from,metal_2026_tier,reason,listed_us_codes,n_listed_lines,cn8_codes,eu_exports_to_us_2024_eur_m
+870322,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.22.01,1,87032210; 87032290,12.9
+870323,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.23.01,1,87032311; 87032319; 87032390,19689.1
+870324,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.24.01,1,87032410; 87032490,6200.3
+870331,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.31.01,1,87033110; 87033190,1.4
+870332,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.32.01,1,87033211; 87033219; 87033290,170.7
+870333,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.33.01,1,87033319; 87033390,34.6
+870340,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.40.00,1,87034010; 87034090,3413.9
+870350,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.50.00,1,87035000,36.1
+870360,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.60.00,1,87036010; 87036090,3775.6
+870370,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.70.00,1,,0.0
+870380,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.80.00,1,87038010; 87038090,6326.7
+870390,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8703.90.01,1,87039000,9.9
+870421,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8704.21.01,1,87042131; 87042139; 87042191; 87042199,363.5
+870431,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8704.31.01,1,87043110; 87043131; 87043191; 87043199,0.2
+870441,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8704.41.00,1,87044110; 87044199,0.0
+870451,full,1 CARS,1 CARS,false,false,none,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8704.51.00,1,,0.0
+870460,full,1 CARS,1 CARS,false,false,full,none,never,none,Vehicle code listed in Annex I of Proclamation 10908 (note 33(b)),8704.60.00,1,87046000,0.4
+840731,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8407.31.00,1,84073100,0.0
+840732,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8407.32,1,84073210; 84073290,3.4
+840733,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8407.33,1,84073320; 84073380,2.2
+840734,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8407.34,1,84073410; 84073430; 84073491; 84073499,2009.6
+870710,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8707.10.0020; 8707.10.0040,2,87071010; 87071090,27.8
+870790,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8707.90.5020; 8707.90.5040; 8707.90.5060; 8707.90.5080,4,87079010; 87079090,30.5
+870821,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,full,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8708.21.00,1,87082110; 87082190,86.8
+870822,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,full,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8708.22,1,87082210; 87082290,70.8
+870829,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,2025-03-12,I-B 25%,Listed in full in Annex I (note 33(g)); used only in vehicles,8708.29,1,87082910; 87082990,1092.9
+870830,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8708.30,1,87083010; 87083091; 87083099,625.1
+870850,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8708.50,1,87085020; 87085035; 87085055; 87085091; 87085099,872.2
+870870,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8708.70,1,87087010; 87087050; 87087091; 87087099,324.9
+870880,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,2025-03-12,I-B 25%,Listed in full in Annex I (note 33(g)); used only in vehicles,8708.80,1,87088020; 87088035; 87088055; 87088091; 87088099,500.0
+870891,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8708.91,1,87089120; 87089135; 87089191; 87089199,122.1
+870894,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8708.94,1,87089420; 87089435; 87089491; 87089499,331.3
+870895,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,Listed in full in Annex I (note 33(g)); used only in vehicles,8708.95,1,87089510; 87089591; 87089599,102.0
+840820,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8408.20.20,1,84082010; 84082031; 84082035; 84082037; 84082051; 84082055; 84082057; 84082099,1019.5
+840991,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8409.91.1040,1,84099100,572.6
+840999,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8409.99.1040,1,84099900,2036.1
+841330,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8413.30.10; 8413.30.90,2,84133020; 84133080,671.5
+841391,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8413.91.10; 8413.91.9010,2,84139100,633.5
+841430,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8414.30.8030,1,84143020; 84143081; 84143089,277.6
+841459,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-03-12,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8414.59.30; 8414.59.6540,2,84145915; 84145925; 84145935; 84145995,728.5
+841480,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8414.80.05,1,84148011; 84148019; 84148022; 84148028; 84148051; 84148059; 84148073; 84148075; 84148078; 84148080,928.8
+841520,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8415.20.00,1,84152000,65.3
+842123,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8421.23.00,1,84212300,221.6
+842132,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8421.32.00,1,84213200,420.4
+842549,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8425.49.00,1,84254900,26.3
+842691,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8426.91.00,1,84269110; 84269190,83.7
+843110,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8431.10.0090,1,84311000,83.5
+847130,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",,,84713000,109.0
+847141,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",,,84714100,209.3
+847149,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",,,84714900,84.2
+847150,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",,,84715000,1658.2
+847160,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",,,84716060; 84716070,120.2
+847170,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",,,84717020; 84717030; 84717050; 84717070; 84717080; 84717098,453.6
+847180,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",,,84718000,1573.1
+847190,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",,,84719000,219.4
+848210,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8482.10.10; 8482.10.5044; 8482.10.5048,3,84821010; 84821090,348.5
+848220,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8482.20.0020; 8482.20.0030; 8482.20.0040; 8482.20.0061; 8482.20.0070; 8482.20.0081,6,84822000,142.7
+848240,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8482.40.00,1,84824000,36.3
+848250,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8482.50.00,1,84825000,203.7
+848310,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8483.10.1030; 8483.10.30,2,84831021; 84831025; 84831029; 84831050; 84831095,536.6
+850132,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8501.32,1,85013200,78.2
+850133,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8501.33,1,85013300,122.6
+850134,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8501.34,1,85013400,1.5
+850140,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8501.40,1,85014020; 85014080,44.0
+850151,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8501.51,1,85015100,164.1
+850152,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8501.52,1,85015220; 85015230; 85015290,469.4
+850710,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8507.10,1,85071020; 85071080,214.9
+850760,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8507.60,1,85076000,2244.3
+850790,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8507.90.40; 8507.90.80,2,85079030; 85079080,184.9
+851110,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8511.10.0000,1,85111000,108.6
+851120,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8511.20.00,1,85112000,9.8
+851130,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8511.30.0040; 8511.30.0080,2,85113000,87.7
+851140,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8511.40.00,1,85114000,128.9
+851150,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8511.50.00,1,85115000,146.8
+851180,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8511.80.20; 8511.80.60,2,85118000,32.9
+851190,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8511.90.6020; 8511.90.6040,2,85119000,24.6
+851220,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8512.20.20; 8512.20.40,2,85122000,333.3
+851230,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8512.30.00,1,85123010; 85123090,19.0
+851240,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8512.40.20; 8512.40.40,2,85124000,14.1
+851290,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8512.90.20; 8512.90.60; 8512.90.70,3,85129010; 85129090,153.1
+851981,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8519.81.20,1,85198100,6.6
+852560,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8525.60.1010,1,85256000,58.7
+852721,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8527.21,1,85272120; 85272152; 85272159; 85272170; 85272192; 85272198,23.0
+852729,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8527.29,1,85272900,16.1
+853641,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8536.41.0005,1,85364110; 85364190,85.5
+853710,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8537.10,1,85371010; 85371091; 85371095; 85371098,3691.5
+853720,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8537.20,1,85372091; 85372099,374.4
+853910,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8539.10.0010; 8539.10.0050,2,85391000,18.9
+854430,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,"Listed in full, but also used outside vehicles; the parts tariff applies only to vehicle use",8544.30.00,1,85443000,511.7
+870310,none,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,2025-08-18,I-B 25%,Car code not listed in Annex I,,,87031011; 87031018,3.2
+870321,none,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,2025-08-18,I-B 25%,Car code not listed in Annex I,,,87032110; 87032190,11.8
+870600,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,partial,partial,2025-08-18,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8706.00.03; 8706.00.05; 8706.00.15; 8706.00.25,4,87060011; 87060019; 87060091; 87060099,27.7
+870810,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-03-12,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8708.10.30; 8708.10.60,2,87081010; 87081090,186.6
+870840,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8708.40.11; 8708.40.70; 8708.40.75,3,87084020; 87084050; 87084091; 87084099,2529.5
+870893,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8708.93.60; 8708.93.75,2,87089310; 87089390,162.3
+870899,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-03-12,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8708.99.53; 8708.99.55; 8708.99.58; 8708.99.68,4,87089910; 87089993; 87089997,1609.9
+871690,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,2025-08-18,I-B 25%,Only some US tariff lines listed in Annex I; exposure cannot be assigned at HS6,8716.90.50,1,87169010; 87169030; 87169050; 87169090,64.3
+840110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84011000,0.0
+840120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84012000,36.2
+840130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84013000,18.0
+840211,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84021100,4.1
+840212,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84021200,1.9
+840219,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84021910; 84021990,11.8
+840220,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84022000,0.3
+840290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84029000,19.9
+840390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84039010; 84039090,56.9
+840410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84041000,2.8
+840420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84042000,3.3
+840490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84049000,3.6
+840510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84051000,10.7
+840590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84059000,8.7
+840610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84061000,0.4
+840681,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84068100,14.1
+840682,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84068200,4.1
+840710,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84071000,29.3
+840729,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84072900,0.6
+840810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84081011; 84081019; 84081023; 84081027; 84081039; 84081041; 84081049; 84081051; 84081059; 84081061; 84081069; 84081071; 84081079; 84081081; 84081089,104.4
+840890,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84089021; 84089027; 84089041; 84089043; 84089045; 84089047; 84089061; 84089065; 84089067; 84089081; 84089085; 84089089,664.1
+840910,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84091000,32.7
+841011,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84101100,1.0
+841012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84101200,0.6
+841013,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84101300,2.1
+841311,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84131100,11.5
+841319,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84131900,110.0
+841320,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84132000,13.5
+841340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84134000,62.5
+841350,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84135020; 84135040; 84135061; 84135069; 84135080,516.5
+841360,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84136020; 84136031; 84136039; 84136061; 84136069; 84136070; 84136080,316.4
+841370,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84137021; 84137029; 84137030; 84137035; 84137045; 84137051; 84137059; 84137065; 84137075; 84137081; 84137089,449.8
+841382,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84138200,3.1
+841392,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84139200,4.7
+841410,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84141015; 84141025; 84141081; 84141089,342.5
+841420,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84142020; 84142080,1.6
+841440,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84144010; 84144090,85.1
+841451,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84145100,5.8
+841460,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84146000,29.2
+841470,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84147000,32.7
+841610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84161010; 84161090,1.2
+841620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84162010; 84162020; 84162080,34.3
+841630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84163000,5.2
+841690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84169000,51.5
+841710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84171000,36.2
+841720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84172010; 84172090,35.9
+841780,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84178030; 84178050; 84178070,34.2
+841850,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84185011; 84185019; 84185090,102.8
+841861,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84186100,22.8
+841869,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84186900,212.6
+841891,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84189100,3.0
+841911,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84191100,16.0
+841912,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84191200,0.5
+841919,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84191900,33.0
+841920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84192000,62.1
+841933,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84193300,18.3
+841934,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84193400,8.3
+841935,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84193500,18.5
+841939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84193900,86.8
+841940,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84194000,17.2
+841960,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84196000,22.5
+841989,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84198910; 84198930; 84198998,1243.6
+842010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84201010; 84201030; 84201081; 84201089,120.0
+842091,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84209110; 84209180,24.7
+842099,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84209900,17.6
+842111,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84211100,1.6
+842112,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84211200,0.6
+842119,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84211920; 84211970,172.4
+842121,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84212100,340.5
+842122,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84212200,19.8
+842131,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84213100,96.7
+842139,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84213915; 84213925; 84213935; 84213985,729.8
+842191,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84219100,130.4
+842199,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84219910; 84219990,603.3
+842219,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84221900,23.8
+842220,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84222000,84.1
+842230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84223000,1189.9
+842240,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84224000,1139.1
+842310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84231010; 84231090,3.9
+842320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84232010; 84232090,4.0
+842330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84233010; 84233090,41.7
+842381,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84238121; 84238123; 84238125; 84238129; 84238180,21.7
+842382,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84238220; 84238281; 84238289,36.1
+842389,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84238920; 84238980,1.9
+842390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84239010; 84239090,32.3
+842420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84242000,42.6
+842430,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84243001; 84243008; 84243010; 84243090,80.5
+842441,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84244100,3.3
+842449,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84244910; 84244990,13.9
+842482,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84248210; 84248290,14.9
+842511,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84251100,63.7
+842519,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84251900,14.7
+842531,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84253100,44.8
+842539,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84253900,56.0
+842541,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84254100,17.4
+842611,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84261100,51.3
+842612,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84261200,30.8
+842619,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84261900,47.7
+842630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84263000,9.8
+842641,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84264100,240.4
+842810,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84281020; 84281080,68.4
+842820,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84282020; 84282080,62.2
+842831,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84283100,1.2
+842840,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84284000,11.2
+843010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84301000,23.9
+843020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84302000,8.4
+843031,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84303100,34.3
+843039,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84303900,29.2
+843041,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84304100,282.2
+843049,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84304900,21.9
+843050,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84305000,39.4
+843061,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84306100,27.4
+843069,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84306900,68.2
+843221,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84322100,22.2
+843229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84322910; 84322930; 84322950; 84322990,37.1
+843231,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84323100,7.0
+843239,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84323911; 84323919; 84323990,29.7
+843241,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84324100,4.1
+843242,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84324200,8.9
+843280,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84328000,71.0
+843319,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84331910; 84331951; 84331970; 84331990,5.0
+843330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84333000,60.5
+843340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84334000,108.0
+843352,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84335200,6.0
+843353,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84335310; 84335330; 84335390,20.0
+843360,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84336000,155.9
+843410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84341000,10.3
+843420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84342000,39.8
+843490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84349000,49.7
+843510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84351000,17.4
+843590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84359000,5.9
+843610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84361000,26.2
+843621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84362100,20.1
+843629,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84362900,203.8
+843680,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84368010; 84368090,179.4
+843691,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84369100,70.4
+843699,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84369900,42.6
+843710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84371000,14.5
+843780,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84378000,15.5
+843790,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84379000,18.0
+843810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84381010; 84381090,216.2
+843820,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84382000,212.8
+843830,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84383000,10.5
+843840,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84384000,9.8
+843850,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84385000,269.5
+843860,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84386000,60.3
+843880,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84388010; 84388091; 84388099,256.0
+843890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84389000,420.7
+843910,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84391000,30.4
+843920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84392000,111.1
+843930,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84393000,76.8
+843991,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84399100,40.2
+843999,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84399900,274.5
+844010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84401010; 84401020; 84401030; 84401040; 84401090,70.6
+844090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84409000,18.2
+844110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84411010; 84411020; 84411030; 84411070,102.1
+844120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84412000,66.9
+844130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84413000,121.0
+844140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84414000,22.0
+844180,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84418000,239.0
+844190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84419010; 84419090,198.1
+844230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84423000,32.9
+844240,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84424000,10.5
+844250,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84425000,11.0
+844311,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84431100,17.3
+844312,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84431200,0.2
+844313,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84431310; 84431332; 84431334; 84431338; 84431390,113.5
+844314,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84431400,0.5
+844315,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84431500,0.3
+844317,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84431700,6.8
+844319,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84431920; 84431940; 84431970,125.4
+844331,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84433100,2.9
+844332,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84433210; 84433280,234.3
+844339,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84433900,20.0
+844391,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84439110; 84439191; 84439199,134.7
+844399,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84439910; 84439990,345.2
+844400,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84440010; 84440090,13.7
+844511,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84451100,2.5
+844512,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84451200,0.6
+844513,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84451300,1.1
+844519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84451900,6.1
+844520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84452000,1.0
+844530,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84453000,3.5
+844540,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84454000,11.6
+844590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84459000,6.0
+844610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84461000,0.4
+844621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84462100,2.0
+844629,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84462900,0.6
+844630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84463000,12.6
+844711,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84471100,3.8
+844712,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84471200,1.8
+844720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84472020; 84472080,0.6
+844790,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84479000,18.2
+844811,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84481100,1.1
+844819,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84481900,3.9
+844820,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84482000,25.3
+844831,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84483100,7.9
+844832,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84483200,6.9
+844833,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84483300,0.5
+844839,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84483900,17.3
+844842,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84484200,0.7
+844849,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84484900,13.2
+844851,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84485110; 84485190,0.3
+844859,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84485900,12.8
+844900,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84490000,83.4
+845012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84501200,0.1
+845019,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84501900,0.1
+845090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84509000,23.4
+845110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84511000,7.0
+845130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84513000,20.6
+845140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84514000,15.7
+845150,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84515000,54.8
+845180,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84518010; 84518030; 84518080,23.7
+845190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84519000,32.6
+845210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84521011; 84521019; 84521090,0.1
+845221,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84522100,10.5
+845229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84522900,10.6
+845230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84523000,0.0
+845290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84529000,4.0
+845310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84531000,6.3
+845320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84532000,4.4
+845380,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84538000,1.4
+845390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84539000,14.5
+845410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84541000,0.3
+845430,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84543010; 84543090,58.0
+845490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84549000,86.7
+845510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84551000,17.2
+845521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84552100,52.5
+845522,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84552200,37.6
+845611,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84561110; 84561190,303.6
+845612,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84561210; 84561290,2.0
+845620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84562000,3.9
+845630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84563011; 84563019; 84563090,8.4
+845640,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84564000,33.1
+845650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84565000,7.6
+845690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84569000,17.9
+845720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84572000,29.3
+845730,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84573010; 84573090,111.8
+845811,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84581120; 84581141; 84581149; 84581180,121.9
+845819,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84581900,7.0
+845891,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84589120; 84589180,46.1
+845899,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84589900,1.1
+845910,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84591000,5.2
+845921,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84592100,30.7
+845929,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84592900,6.1
+845931,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84593100,70.5
+845939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84593900,1.3
+845941,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84594100,0.0
+845949,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84594900,1.9
+845951,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84595100,0.5
+845959,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84595900,0.1
+845961,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84596110; 84596190,81.4
+845969,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84596910; 84596990,10.5
+845970,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84597000,4.9
+846012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84601200,18.3
+846019,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84601900,11.6
+846022,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84602200,1.7
+846023,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84602300,81.9
+846024,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84602400,46.2
+846029,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84602910; 84602990,10.2
+846031,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84603100,10.5
+846039,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84603900,8.4
+846040,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84604010; 84604090,22.1
+846090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84609000,21.5
+846120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84612000,3.0
+846130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84613010; 84613090,3.7
+846140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84614011; 84614019; 84614031; 84614039; 84614071; 84614090,45.5
+846150,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84615011; 84615019; 84615090,95.0
+846190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84619000,7.9
+846211,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84621110; 84621190,20.0
+846219,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84621910; 84621990,14.6
+846222,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84622210; 84622290,75.1
+846223,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84622300,114.9
+846224,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84622400,75.0
+846225,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84622500,1.6
+846226,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84622600,57.5
+846229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84622900,35.2
+846232,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84623210; 84623290,87.7
+846233,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84623300,7.6
+846239,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84623900,22.6
+846242,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84624200,84.4
+846249,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84624900,7.0
+846251,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84625100,31.8
+846259,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84625900,13.4
+846261,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84626110; 84626190,54.6
+846262,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84626210; 84626290,32.3
+846263,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84626310; 84626390,21.8
+846269,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84626910; 84626990,11.3
+846290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84629010; 84629090,69.0
+846310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84631010; 84631090,84.6
+846320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84632000,9.8
+846330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84633000,19.3
+846390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84639000,50.0
+846410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84641000,42.3
+846420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84642011; 84642019; 84642080,69.2
+846490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84649000,68.2
+846510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84651010; 84651090,140.2
+846520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84652000,34.9
+846591,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84659110; 84659120; 84659190,79.5
+846592,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84659200,36.6
+846593,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84659300,47.6
+846594,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84659400,40.2
+846595,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84659500,19.2
+846596,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84659600,6.4
+846599,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84659900,85.8
+846610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84661020; 84661031; 84661038; 84661080,269.0
+846620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84662020; 84662091; 84662098,130.0
+846630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84663000,21.5
+846691,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84669120; 84669195,49.3
+846692,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84669220; 84669280,96.4
+846693,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84669340; 84669350; 84669360,329.8
+846694,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84669400,268.3
+846711,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84671110; 84671190,12.4
+846719,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84671900,18.8
+846721,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84672110; 84672191; 84672199,46.0
+846791,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84679100,5.8
+846792,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84679200,13.7
+846799,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84679900,71.2
+846810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84681000,9.1
+846820,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84682000,8.1
+846880,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84688000,10.9
+846890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84689000,12.1
+847010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84701000,1.5
+847021,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84702100,0.1
+847029,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84702900,0.3
+847030,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84703000,0.2
+847050,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84705000,13.6
+847090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84709000,11.7
+847210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,,0.0
+847230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84723000,34.7
+847290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84729010; 84729080,127.1
+847321,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84732110; 84732190,0.5
+847329,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84732910; 84732990,25.5
+847340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84734010; 84734080,66.2
+847350,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84735020; 84735080,20.5
+847410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84741000,65.2
+847420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84742000,206.3
+847431,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84743100,22.3
+847432,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84743200,4.0
+847439,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84743900,29.3
+847480,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84748010; 84748090,105.4
+847510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84751000,18.0
+847521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84752100,1.5
+847529,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84752900,90.4
+847590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84759010; 84759090,111.1
+847621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84762100,7.9
+847629,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84762900,1.1
+847681,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84768100,2.5
+847689,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84768910; 84768990,8.7
+847690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84769010; 84769090,27.9
+847720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84772000,197.9
+847730,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84773000,122.6
+847740,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84774000,64.1
+847751,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84775100,83.2
+847759,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84775910; 84775980,110.3
+847780,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84778011; 84778019; 84778091; 84778093; 84778095; 84778099,465.9
+847810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84781000,43.8
+847890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84789000,7.7
+847910,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84791000,365.4
+847920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84792000,11.3
+847930,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84793010; 84793090,126.0
+847940,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84794000,129.7
+847950,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84795000,407.4
+847960,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84796000,2.6
+847971,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84797100,0.8
+847979,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84797900,14.3
+847981,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84798100,163.1
+847982,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84798200,429.9
+847983,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84798300,5.4
+848010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84801000,0.8
+848020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84802000,1.0
+848030,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84803010; 84803090,2.5
+848041,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84804100,22.4
+848050,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84805000,34.1
+848060,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84806000,47.1
+848110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84811005; 84811019; 84811099,130.9
+848120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84812010; 84812090,584.6
+848130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84813091; 84813099,114.2
+848140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84814010; 84814090,139.0
+848180,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84818011; 84818019; 84818031; 84818039; 84818040; 84818051; 84818059; 84818061; 84818063; 84818069; 84818071; 84818073; 84818079; 84818081; 84818085; 84818087; 84818099,1850.2
+848230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84823000,134.0
+848280,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84828000,28.1
+848291,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84829110; 84829190,36.4
+848410,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84841000,98.8
+848420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84842000,137.3
+848490,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,84849000,137.3
+848510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84851000,157.4
+848520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84852000,58.6
+848530,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84853010; 84853090,3.5
+848580,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84858010; 84858090,12.1
+848590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84859010; 84859090,43.3
+848710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,84871010; 84871090,14.1
+850110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85011010; 85011091; 85011093; 85011099,252.9
+850120,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85012000,29.5
+850131,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85013100,323.3
+850161,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85016120; 85016180,47.6
+850162,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85016200,68.7
+850163,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85016300,2.9
+850171,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85017100,0.0
+850172,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85017200,1.6
+850180,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85018000,5.5
+850211,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85021120; 85021180,34.7
+850212,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85021200,30.0
+850213,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85021320; 85021340; 85021380,55.3
+850239,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85023920; 85023980,212.6
+850240,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85024000,7.6
+850410,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85041020; 85041080,24.6
+850440,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85044060; 85044083; 85044085; 85044086; 85044095,2964.6
+850450,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85045000,129.0
+850519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85051910; 85051990,9.9
+850520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85052000,49.7
+850590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85059021; 85059029; 85059050; 85059090,89.8
+850610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85061011; 85061018; 85061091; 85061098,74.9
+850630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85063000,0.0
+850640,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85064000,0.4
+850650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85065010; 85065030; 85065090,57.1
+850660,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85066000,10.0
+850680,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85068005; 85068080,5.1
+850690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85069000,2.7
+850720,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85072020; 85072080,150.3
+850730,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85073020; 85073080,80.4
+850750,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85075000,13.0
+850780,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85078000,9.9
+850811,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85081100,71.1
+850819,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85081900,28.9
+850860,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85086000,3.3
+850940,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85094000,23.4
+850990,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85099000,3.2
+851010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85101000,77.0
+851020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85102000,6.6
+851030,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85103000,10.4
+851090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85109000,18.4
+851210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85121000,1.7
+851310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85131000,8.2
+851411,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85141100,4.3
+851419,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85141910; 85141980,145.1
+851431,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85143110; 85143190,36.5
+851432,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85143210; 85143290,31.2
+851439,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85143910; 85143990,19.9
+851440,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85144000,34.4
+851490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85149030; 85149070,109.1
+851511,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85151100,8.0
+851519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85151910; 85151990,29.3
+851521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85152100,80.6
+851529,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85152900,8.5
+851531,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85153100,95.8
+851539,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85153913; 85153918; 85153990,16.7
+851580,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85158010; 85158090,155.2
+851610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85161011; 85161080,56.4
+851621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85162100,0.5
+851631,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85163100,8.5
+851632,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85163200,1.2
+851633,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85163300,1.6
+851640,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85164000,10.3
+851650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85165000,2.0
+851671,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85167100,215.9
+851672,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85167200,0.1
+851679,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85167920; 85167970,37.1
+851680,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85168020; 85168080,129.2
+851711,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85171100,4.6
+851714,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85171400,19.2
+851718,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85171800,15.6
+851761,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85176100,30.3
+851769,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85176910; 85176920; 85176930; 85176990,202.3
+851810,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85181000,66.6
+851821,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85182100,43.4
+851822,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85182200,151.8
+851829,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85182900,40.8
+851830,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85183000,106.3
+851840,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85184000,92.3
+851850,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85185000,39.5
+851890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85189000,28.5
+851920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85192010; 85192091; 85192099,0.1
+851930,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85193000,3.5
+851989,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85198900,18.7
+852110,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85211020; 85211095,0.8
+852190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85219000,85.1
+852210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85221000,2.6
+852290,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85229000,13.0
+852321,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85232100,1.8
+852329,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85232915; 85232919; 85232990,10.7
+852341,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85234110; 85234130; 85234190,1.0
+852349,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85234910; 85234920; 85234990,157.5
+852352,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85235200,90.5
+852359,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85235910; 85235990,11.7
+852380,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85238010; 85238090,97.9
+852550,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85255000,28.1
+852581,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85258100,10.0
+852582,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85258200,4.6
+852583,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85258300,9.5
+852589,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85258900,867.5
+852610,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85261000,638.6
+852691,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85269120; 85269180,291.9
+852692,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85269200,126.4
+852712,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85271200,0.0
+852713,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85271300,0.3
+852719,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85271900,3.7
+852791,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85279100,0.3
+852792,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85279200,0.1
+852799,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85279900,1.8
+852842,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85284200,1.8
+852849,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85284900,0.4
+852859,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85285900,67.7
+852862,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85286200,70.3
+852869,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85286920; 85286980,9.2
+852871,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85287111; 85287115; 85287119; 85287191; 85287199,3.7
+852872,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85287210; 85287220; 85287240; 85287260; 85287280,1.8
+852873,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85287300,0.1
+852910,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85291011; 85291030; 85291065; 85291069; 85291080; 85291095,139.0
+853010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85301000,7.5
+853080,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85308000,32.9
+853090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85309000,23.9
+853110,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85311030; 85311095,98.2
+853120,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85312020; 85312040; 85312095,67.4
+853180,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85318040; 85318070,125.8
+853190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85319000,39.8
+853210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85321000,8.2
+853221,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85322100,16.8
+853222,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85322200,43.5
+853223,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85322300,7.4
+853224,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85322400,23.3
+853225,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85322500,35.0
+853229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85322900,21.0
+853230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85323000,0.9
+853290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85329000,4.6
+853310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85331000,4.6
+853321,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85332100,106.3
+853329,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85332900,29.1
+853331,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85333100,2.0
+853339,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85333900,0.9
+853340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85334010; 85334090,72.6
+853390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85339000,4.4
+853400,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85340011; 85340019; 85340090,156.9
+853510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85351000,11.1
+853521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85352100,8.0
+853529,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85352900,30.9
+853530,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85353010; 85353090,102.3
+853540,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85354000,29.2
+853590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85359000,147.4
+853610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85361010; 85361050; 85361090,28.9
+853620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85362010; 85362090,503.0
+853630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85363010; 85363030; 85363090,158.3
+853649,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85364900,214.5
+853650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85365003; 85365005; 85365007; 85365011; 85365015; 85365019; 85365080,623.0
+853661,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85366110; 85366190,7.7
+853669,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85366910; 85366930; 85366990,542.2
+853670,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85367000,19.7
+853890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85389011; 85389019; 85389091; 85389099,909.2
+853921,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85392130; 85392192; 85392198,69.9
+853922,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85392210; 85392290,0.9
+853929,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85392930; 85392992; 85392998,26.1
+853931,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85393110; 85393190,25.7
+853932,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85393220; 85393290,10.3
+853939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85393920; 85393980,3.7
+853941,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85394100,55.1
+853949,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85394900,69.2
+853951,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85395100,26.9
+853952,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85395200,23.4
+853990,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85399010; 85399090,7.2
+854011,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85401100,0.0
+854012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85401200,0.0
+854020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85402010; 85402080,11.0
+854040,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85404000,0.2
+854060,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85406000,0.6
+854071,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85407100,6.8
+854079,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85407900,49.9
+854081,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85408100,10.2
+854089,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85408900,10.1
+854091,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85409100,6.6
+854099,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85409900,4.7
+854142,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85414200,16.2
+854143,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85414300,84.8
+854160,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85416000,32.9
+854310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85431000,31.7
+854320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85432000,79.8
+854330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85433040; 85433070,54.0
+854340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85434000,1.8
+854370,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,Not listed; general tariff only (also a civil-aircraft good),,,85437001; 85437002; 85437003; 85437004; 85437005; 85437006; 85437007; 85437008; 85437009; 85437010; 85437030; 85437050; 85437060; 85437090,823.3
+854411,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85441110; 85441190,59.4
+854420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85442000,72.1
+854470,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85447000,122.3
+854511,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85451100,25.4
+854519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85451900,17.2
+854520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85452000,39.9
+854590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85459010; 85459090,7.4
+854610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85461000,6.1
+854620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85462000,36.3
+854690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85469010; 85469090,53.2
+854710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85471000,15.6
+854720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85472000,87.4
+854800,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85480020; 85480030; 85480090,24.8
+854911,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85491110,0.0
+854912,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,,0.0
+854913,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,,0.0
+854914,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85491490,0.0
+854919,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85491910; 85491920; 85491990,0.3
+854921,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85492100,0.0
+854929,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85492900,0.6
+854931,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85493100,0.0
+854939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85493900,0.2
+854991,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85499100,0.0
+854999,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,85499900,0.3
+860630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,,0.0
+860691,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,,0.0
+860692,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,,0.0
+860699,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,86069900,0.4
+860712,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,86071200,17.2
+860729,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,86072900,4.5
+860800,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,86080000,12.5
+870530,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87053000,4.6
+871110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87111000,5.6
+871120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87112010; 87112092; 87112098,93.4
+871140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87114000,68.9
+871190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87119000,0.7
+871200,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87120030; 87120070,31.6
+871310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87131000,3.4
+871390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87139000,0.5
+871420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87142000,67.1
+871491,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87149110; 87149130; 87149190,16.1
+871492,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87149210; 87149290,2.6
+871493,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87149300,3.6
+871494,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87149420; 87149490,2.8
+871495,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87149500,8.2
+871496,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87149610; 87149630; 87149690,7.2
+871499,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87149910; 87149930; 87149950; 87149990,30.3
+871500,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87150010; 87150090,5.9
+871620,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87162000,2.1
+871631,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87163100,0.0
+871640,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none,Not listed; general tariff only,,,87164000,13.3
+840140,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,36.4
+840310,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,94.9
+840690,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,138.9
+840721,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,1.4
+840790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,113.1
+841090,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,23.7
+841381,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,131.7
+841490,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,496.6
+841510,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,26.5
+841581,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,8.2
+841582,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,122.0
+841583,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,53.7
+841590,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,242.9
+841790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,133.3
+841810,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-06-23,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-06-23,,,,16.3
+841821,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,44.9
+841829,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,1.7
+841830,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-06-23,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-06-23,,,,19.5
+841840,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-06-23,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-06-23,,,,8.6
+841899,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,122.9
+841950,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,511.1
+841981,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,331.7
+841990,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,521.7
+842129,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,524.9
+842211,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-06-23,,,,134.6
+842290,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,748.9
+842410,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,none,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,21.5
+842489,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,184.8
+842490,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,243.5
+842542,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,58.3
+842620,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,62.7
+842649,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,never,I-B 25%,Steel or aluminium derivative under Section 232 from 6 Apr 2026,,,,365.4
+842699,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,24.3
+842710,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,554.4
+842720,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,901.8
+842790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,175.2
+842832,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,13.0
+842833,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,222.6
+842839,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,914.8
+842860,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,38.4
+842870,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,73.2
+842890,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,1280.9
+842911,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,188.5
+842919,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,2.1
+842920,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,4.8
+842930,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,0.7
+842940,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,439.1
+842951,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,888.6
+842952,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,485.0
+842959,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,63.9
+843120,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,261.4
+843131,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,90.6
+843139,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,740.6
+843141,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,72.5
+843142,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,6.0
+843143,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,250.4
+843149,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,772.7
+843210,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,2.9
+843290,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,89.9
+843311,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,17.5
+843320,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,123.9
+843351,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,263.1
+843359,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,234.4
+843390,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,364.0
+844316,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,143.8
+845011,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-06-23,,,,56.3
+845020,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-06-23,,,,93.6
+845121,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-06-23,,,,40.2
+845129,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-06-23,,,,18.4
+845420,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,2.5
+845530,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,148.8
+845590,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,238.9
+845710,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,428.1
+846722,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,32.9
+846729,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,242.6
+846781,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,44.6
+846789,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,114.8
+847490,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,302.5
+847710,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,144.9
+847790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,600.7
+847989,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,2672.9
+847990,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,1205.3
+848049,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,5.0
+848071,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,347.3
+848079,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,60.2
+848190,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,619.4
+848299,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,67.5
+848320,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,40.2
+848330,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,258.1
+848340,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,1641.2
+848350,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,132.7
+848360,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,188.4
+848390,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,638.0
+848790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,230.9
+850153,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,408.8
+850164,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,310.6
+850220,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,199.9
+850231,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,400.8
+850300,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,498.0
+850421,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,never,I-B 25%,Steel or aluminium derivative under Section 232 from 6 Apr 2026,,,,4.0
+850422,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,never,I-B 25%,Steel or aluminium derivative under Section 232 from 6 Apr 2026,,,,60.6
+850423,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,868.6
+850431,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,94.3
+850432,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,never,I-B 25%,Steel or aluminium derivative under Section 232 from 6 Apr 2026,,,,61.3
+850433,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,35.0
+850434,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,47.0
+850490,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,461.8
+850870,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,16.4
+850980,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-06-23,,,,105.8
+851390,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,0.4
+851420,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,39.9
+851590,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,212.0
+851629,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,49.3
+851660,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-06-23,,,,118.8
+851690,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,66.8
+851771,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,61.4
+851779,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,none,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,365.7
+852990,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,463.1
+853690,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,611.1
+853810,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,209.0
+854390,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,175.7
+854419,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,4.1
+854442,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,536.1
+854449,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,247.1
+854460,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,894.0
+854790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,7.8
+860110,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,0.0
+860120,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,3.6
+860210,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,0.0
+860290,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,0.0
+860310,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,1.3
+860390,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,1.7
+860400,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,2.4
+860500,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,5.8
+860610,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,never,I-B 25%,Steel or aluminium derivative under Section 232 from 6 Apr 2026,,,,0.0
+860711,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,13.9
+860719,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,74.5
+860721,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,21.8
+860730,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,15.3
+860791,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,14.3
+860799,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,59.8
+860900,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,126.9
+870110,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,0.3
+870130,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,52.7
+870191,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,true,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,10.0
+870192,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,true,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,1.9
+870193,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,true,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,56.0
+870194,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,true,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,921.1
+870195,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,true,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,591.0
+870510,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,747.7
+870520,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,0.0
+870892,none,4 CONTROL,4m CONTROL_METAL,false,false,none,partial,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,141.3
+871000,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,12.4
+871130,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,167.4
+871150,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,425.1
+871160,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,107.0
+871410,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,196.0
+871610,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,0.0
+871639,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-08-18,,,,90.4
+871680,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%,Steel or aluminium derivative under Section 232 from 2025-03-12,,,,38.7
+847330,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,2025-03-12,none,Exempt from the general tariff for any use,,,,1143.2
+848610,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,45.2
+848620,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,3631.6
+848630,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,10.8
+848640,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,202.5
+848690,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,2025-03-12,none,Exempt from the general tariff for any use,,,,1194.3
+850511,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,37.0
+851713,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,113.3
+851762,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,2309.5
+852351,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,328.9
+852411,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,2.2
+852412,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,0.0
+852419,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,42.1
+852491,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,246.8
+852492,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,1.1
+852499,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,3.5
+852852,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,164.2
+854110,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,54.2
+854121,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,6.3
+854129,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,158.6
+854130,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,36.0
+854141,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,43.9
+854149,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,271.4
+854151,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,7.9
+854159,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,263.8
+854190,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,2025-03-12,none,Exempt from the general tariff for any use,,,,45.0
+854231,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,1385.4
+854232,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,91.1
+854233,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,62.8
+854239,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,407.2
+854290,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none,Exempt from the general tariff for any use,,,,25.5
+870121,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,2025-08-18,I-B 25%,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,19.3
+870122,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,2025-08-18,I-B 25%,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.1
+870123,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,2025-08-18,I-B 25%,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.8
+870124,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,2025-08-18,I-B 25%,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,2.9
+870129,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,2025-08-18,I-B 25%,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.0
+870210,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,2025-08-18,I-B 25%,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,4.7
+870220,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.0
+870230,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.0
+870240,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,3.1
+870290,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.0
+870410,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,216.8
+870422,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,15.0
+870423,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,21.0
+870432,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.5
+870442,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.0
+870443,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.1
+870452,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.0
+870490,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,0.9
+870540,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,4.5
+870590,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,2025-08-18,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,185.1
+870911,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,36.3
+870919,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,54.4
+870990,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,none,full,never,none,"Truck, tractor, bus or truck part listed in Proclamation 10984",,,,22.5
+841111,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,84.6
+841112,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,2746.3
+841121,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,41.2
+841122,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,25.6
+841181,none,9 DROPPED,9 DROPPED,true,false,none,none,2025-08-18,I-B 25%,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,243.3
+841182,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,87.5
+841191,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,8423.6
+841199,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,1239.4
+841210,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,19.7
+841221,none,9 DROPPED,9 DROPPED,true,false,none,none,2025-08-18,I-B 25%,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,412.1
+841229,none,9 DROPPED,9 DROPPED,true,false,none,none,2025-08-18,I-B 25%,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,268.6
+841231,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,70.7
+841239,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,43.3
+841280,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,48.1
+841290,none,9 DROPPED,9 DROPPED,true,false,none,none,2025-08-18,I-B 25%,"Aircraft engines and parts (8411, 8412): separate tariff treatment",,,,631.2

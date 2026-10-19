@@ -17,7 +17,9 @@ In April 2025 the United States raised the total tariff on EU cars from 2.5% to 
 | Declared price per car, weighted by 2023-24 flow value, April to July 2025 | -12.6% | -18.7% to -6.1% |
 | Declared price per car, unweighted, April to July 2025 | -3.7% | -15.0% to +9.0% |
 
-Permutation diagnostic: of 2,000 random groups of 17 control products, 22 show a US effect as negative as cars (p = 0.011); of 2,000 groups matched to the size of the car codes, none do (p = 0.0005).
+Cars minus core parts, April to September 2025: -32.4% (p < 0.001).
+
+Permutation diagnostic: of 2,000 random groups of 17 control products, 22 show a US effect as negative as cars (lower-tail empirical p = 0.011); of 2,000 groups matched to the size of the car codes, none do (p = 0.0005).
 
 Because 97.5% of US car imports from the EU are between related parties (US Census Bureau), the price results describe declared customs values, not who paid the tariff.
 
@@ -36,7 +38,7 @@ Because 97.5% of US car imports from the EU are between related parties (US Cens
 
 Eurostat data are reused under the [Eurostat copyright notice](https://ec.europa.eu/eurostat/about-us/policies/copyright) (CC BY 4.0). Source: Eurostat, Comext database, downloaded October 2026. The two parquet files are derived from these data.
 
-The product groups used in the paper are in `7_processed_data/hs6_groups_v4.csv`. `5_results/appendix_crosswalk.csv` maps every HS6 code to its group and its listing status in the US legal texts (paper, Appendix B).
+The product groups used in the paper are in `7_processed_data/hs6_groups_v4.csv`. `5_results/appendix_crosswalk_full.csv` gives all 955 HS6 codes in chapters 84-87 with their group, the reason for it and their listing status in the US legal texts (paper, Appendix B).
 
 ## How to run
 
@@ -71,13 +73,14 @@ The step numbers follow the author's research log; each script's first lines say
 | step21-step25 | PPML estimates, monthly event study, seasonality and China checks, main results table | Sections 3.4, 4.1, 4.3 |
 | step26-step30 | Border prices (weighted and unweighted), exporters, price segments, electric cars, exits | Sections 4.4, 4.5 |
 | step31, step31b, step31c | Clustering checks and the first placebo runs (100 and 500 draws) | Section 4.2 |
-| step32, step33 | Deflection to other non-EU markets and into the EU | Section 4.3, Table 1 |
-| step34 | Tables and Figure 1 | Tables 1-5 |
-| step35, step36 | Electric and plug-in cars; tariff regimes | Section 4.6, Table 6, Figure 3 |
-| step37 | Variance estimators, pre-trend tests, comparison markets, control groups, size heterogeneity in prices, crosswalk | Sections 4.1-4.5, Table 2, Appendices B and C |
+| step32, step33 | Deflection to other non-EU markets and into the EU | Section 4.3, Table 2 |
+| step34 | Tables and Figure 1 | Tables 2-6 |
+| step35, step36 | Electric and plug-in cars; tariff regimes | Section 4.6, Table 7, Figure 3 |
+| step37 | Variance estimators, pre-trend tests, comparison markets, control groups, size heterogeneity in prices, crosswalk | Sections 4.1-4.5, Table 4, Appendices B and C |
 | step38b | Permutation diagnostic, 2,000 random and 2,000 size-matched draws (seeds 2027 and 2028), Figure 2 | Section 4.2, Figure 2 |
-| step39 | Observations and clusters for Table 1; weight per car | Table 1, Section 4.4 |
-| step40 | US normal duties of control products; tariff wedge by period and the implied response | Section 4.6, Table 6 |
+| step39 | Observations and clusters for Table 2; weight per car | Table 2, Section 4.4 |
+| step40 | US normal duties of control products; tariff wedge by period and the implied response | Section 4.6, Table 7 |
+| step41 | Direct test of cars against core parts, April-July window, estimate without light trucks, jackknife over car codes, exporter Holm p-values for the second period, full product crosswalk | Sections 4.1, 4.2, 4.5, Tables 2, 4, 6, Appendix B |
 
 `step38_placebo_parallel.py` is the first version of the placebo run; it uses too much memory on an ordinary PC and is kept only because its random draws are the same as those of step38b. Use step38b.
 
