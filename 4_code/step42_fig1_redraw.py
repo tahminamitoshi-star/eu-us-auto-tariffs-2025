@@ -3,7 +3,8 @@
 No re-estimation. Changes from step34: the second dashed line is labelled as the retroactive effective date of the
 agreed 15% rate (published 25 September 2025), and the January-March 2025 shading is labelled "not in main
 estimates" rather than "front-loading", because the estimates show no clear front-loading for cars and the months are
-only left out of the main model.
+only left out of the main model. Panel B also marks 3 May 2025, when the parts tariff
+took effect (dotted line).
 Saves 5_figures/fig1_event_study.png and .pdf
 """
 import os
@@ -36,6 +37,10 @@ for ax, (short, title) in zip(axes, [("CARS", "A. Finished cars"), ("PARTS", "B.
         ax.axvline(x[mm] - 0.5, color=GREY, linewidth=0.9, linestyle="--")
         if short == "CARS":
             ax.text(x[mm] - 0.3, 0.03, lab, transform=ax.get_xaxis_transform(), fontsize=7, color="#444444", va="bottom")
+    if short == "PARTS":
+        ax.axvline(x["202505"] - 0.5, color=GREY, linewidth=0.9, linestyle=":")
+        ax.text(x["202505"] - 0.7, 0.97, "3 May 2025:\nparts +25%", transform=ax.get_xaxis_transform(), fontsize=7,
+                color="#444444", va="top", ha="right")
     ax.set_title(title, loc="left", fontsize=10)
     ax.set_ylabel("% change")
     ax.grid(axis="y", color="#ececec")
@@ -44,7 +49,7 @@ for ax, (short, title) in zip(axes, [("CARS", "A. Finished cars"), ("PARTS", "B.
 
 ticks = [mm for mm in allm if mm[4:] in ("01", "04", "07", "10")]
 axes[1].set_xticks([x[mm] for mm in ticks])
-axes[1].set_xticklabels([f"{mm[:4]}-{mm[4:]}" for mm in ticks], rotation=45, fontsize=7)
+axes[1].set_xticklabels([f"{mm[:4]}-{mm[4:]}" for mm in ticks], rotation=45, fontsize=8)
 axes[0].text(x["202406"], 0.95, "2024 = reference", fontsize=7, color="#666666", ha="center", va="top",
              transform=axes[0].get_xaxis_transform())
 axes[0].text(x["202502"], 0.95, "not in\nmain\nestimates", fontsize=6.5, color="#9a5b1e", ha="center", va="top",
