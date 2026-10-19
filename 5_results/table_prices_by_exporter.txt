@@ -1,0 +1,26 @@
+Change in EU export prices (EUR, before the US tariff) for the US relative to other non-EU markets (without China), relative to the clean control, in %
+OLS on log unit value; 95% intervals; * p<0.10, ** p<0.05, *** p<0.01; clustered by exporter x CN8.
+
+--- Cars, Germany (EUR per vehicle) ---
+spec         (1) unweighted (2) weighted by 2023-24 value
+period                                                   
+HIGH    -3.4 [-17.3, +12.8]        -12.6*** [-19.9, -4.7]
+LOW     +2.2 [-15.7, +23.8]           -4.1 [-17.6, +11.7]
+
+--- Cars, rest of EU ---
+spec        (1) unweighted (2) weighted by 2023-24 value
+period                                                  
+HIGH    -5.6 [-17.3, +7.8]          -13.2* [-25.0, +0.5]
+LOW     +1.7 [-7.6, +11.9]           -0.4 [-11.2, +11.8]
+
+--- Core parts, Germany (EUR per kg) ---
+spec        (1) unweighted (2) weighted by 2023-24 value
+period                                                  
+HIGH    -5.7 [-12.5, +1.7]            -3.3* [-6.8, +0.4]
+LOW     -3.0 [-10.9, +5.7]             +0.5 [-4.7, +5.9]
+
+--- Core parts, rest of EU ---
+spec           (1) unweighted (2) weighted by 2023-24 value
+period                                                     
+HIGH    +9.1*** [+3.8, +14.7]            +4.7 [-2.8, +12.8]
+LOW     +8.9*** [+3.5, +14.6]          +7.7** [+0.5, +15.4]

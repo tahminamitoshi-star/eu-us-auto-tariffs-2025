@@ -1,0 +1,727 @@
+hs6,annex_status,group_v3,group_v4,aircraft_dual_use,ag_tractor,truck_bus_vehicle,truck_part,metal_2025_from,metal_2026_tier,listed_us_codes,n_listed_lines,annex_list,hs4,listed_hs4,eu_exports_to_us_2024_eur_m,cn8_codes
+870322,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.22.01,1,vehicles,8703,,12.9,87032210; 87032290
+870323,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.23.01,1,vehicles,8703,,19689.1,87032311; 87032319; 87032390
+870324,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.24.01,1,vehicles,8703,,6200.3,87032410; 87032490
+870331,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.31.01,1,vehicles,8703,,1.4,87033110; 87033190
+870332,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.32.01,1,vehicles,8703,,170.7,87033211; 87033219; 87033290
+870333,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.33.01,1,vehicles,8703,,34.6,87033319; 87033390
+870340,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.40.00,1,vehicles,8703,,3413.9,87034010; 87034090
+870350,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.50.00,1,vehicles,8703,,36.1,87035000
+870360,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.60.00,1,vehicles,8703,,3775.6,87036010; 87036090
+870370,none,1 CARS,1 CARS,false,false,none,none,never,none,8703.70.00,1,vehicles,8703,,,
+870380,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.80.00,1,vehicles,8703,,6326.7,87038010; 87038090
+870390,full,1 CARS,1 CARS,false,false,none,none,never,none,8703.90.01,1,vehicles,8703,,9.9,87039000
+870421,full,1 CARS,1 CARS,false,false,none,none,never,none,8704.21.01,1,vehicles,8704,,363.5,87042131; 87042139; 87042191; 87042199
+870431,full,1 CARS,1 CARS,false,false,none,none,never,none,8704.31.01,1,vehicles,8704,,0.2,87043110; 87043131; 87043191; 87043199
+870441,full,1 CARS,1 CARS,false,false,none,none,never,none,8704.41.00,1,vehicles,8704,,0.0,87044110; 87044199
+870451,none,1 CARS,1 CARS,false,false,none,none,never,none,8704.51.00,1,vehicles,8704,,,
+870460,full,1 CARS,1 CARS,false,false,full,none,never,none,8704.60.00,1,vehicles,8704,,0.4,87046000
+840731,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none,8407.31.00,1,parts,8407,,0.0,84073100
+840732,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none,8407.32,1,parts,8407,,3.4,84073210; 84073290
+840733,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none,8407.33,1,parts,8407,,2.2,84073320; 84073380
+840734,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,8407.34,1,parts,8407,,2009.6,84073410; 84073430; 84073491; 84073499
+870710,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none,8707.10.0020; 8707.10.0040,2,parts,8707,8707,27.8,87071010; 87071090
+870790,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,8707.90.5020; 8707.90.5040; 8707.90.5060; 8707.90.5080,4,parts,8707,8707,30.5,87079010; 87079090
+870821,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,full,never,none,8708.21.00,1,parts,8708,,86.8,87082110; 87082190
+870822,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,full,never,none,8708.22,1,parts,8708,,70.8,87082210; 87082290
+870829,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,2025-03-12,I-B 25%,8708.29,1,parts,8708,,1092.9,87082910; 87082990
+870830,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,8708.30,1,parts,8708,,625.1,87083010; 87083091; 87083099
+870850,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,8708.50,1,parts,8708,,872.2,87085020; 87085035; 87085055; 87085091; 87085099
+870870,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,8708.70,1,parts,8708,,324.9,87087010; 87087050; 87087091; 87087099
+870880,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,2025-03-12,I-B 25%,8708.80,1,parts,8708,,500.0,87088020; 87088035; 87088055; 87088091; 87088099
+870891,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,8708.91,1,parts,8708,,122.1,87089120; 87089135; 87089191; 87089199
+870894,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,8708.94,1,parts,8708,,331.3,87089420; 87089435; 87089491; 87089499
+870895,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none,8708.95,1,parts,8708,,102.0,87089510; 87089591; 87089599
+840820,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,none,8408.20.20,1,parts,8408,,1019.5,84082010; 84082031; 84082035; 84082037; 84082051; 84082055; 84082057; 84082099
+840991,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,none,8409.91.1040,1,parts,8409,,572.6,84099100
+840999,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,none,8409.99.1040,1,parts,8409,,2036.1,84099900
+841330,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8413.30.10; 8413.30.90,2,parts,8413,,671.5,84133020; 84133080
+841391,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%,8413.91.10; 8413.91.9010,2,parts,8413,,633.5,84139100
+841430,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%,8414.30.8030,1,parts,8414,,277.6,84143020; 84143081; 84143089
+841459,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-03-12,I-B 25%,8414.59.30; 8414.59.6540,2,parts,8414,,728.5,84145915; 84145925; 84145935; 84145995
+841480,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%,8414.80.05,1,parts,8414,,928.8,84148011; 84148019; 84148022; 84148028; 84148051; 84148059; 84148073; 84148075; 84148078; 84148080
+841520,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none,8415.20.00,1,parts,8415,,65.3,84152000
+842123,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,8421.23.00,1,parts,8421,,221.6,84212300
+842132,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,8421.32.00,1,parts,8421,,420.4,84213200
+842549,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,8425.49.00,1,parts,8425,,26.3,84254900
+842691,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none,8426.91.00,1,parts,8426,,83.7,84269110; 84269190
+843110,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,8431.10.0090,1,parts,8431,,83.5,84311000
+847130,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,,,,8471,8471,109.0,84713000
+847141,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,,,,8471,8471,209.3,84714100
+847149,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,,,,8471,8471,84.2,84714900
+847150,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,,,,8471,8471,1658.2,84715000
+847160,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,,,,8471,8471,120.2,84716060; 84716070
+847170,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,,,,8471,8471,453.6,84717020; 84717030; 84717050; 84717070; 84717080; 84717098
+847180,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,,,,8471,8471,1573.1,84718000
+847190,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,,,,8471,8471,219.4,84719000
+848210,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%,8482.10.10; 8482.10.5044; 8482.10.5048,3,parts,8482,,348.5,84821010; 84821090
+848220,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%,8482.20.0020; 8482.20.0030; 8482.20.0040; 8482.20.0061; 8482.20.0070; 8482.20.0081,6,parts,8482,,142.7,84822000
+848240,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none,8482.40.00,1,parts,8482,,36.3,84824000
+848250,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none,8482.50.00,1,parts,8482,,203.7,84825000
+848310,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%,8483.10.1030; 8483.10.30,2,parts,8483,,536.6,84831021; 84831025; 84831029; 84831050; 84831095
+850132,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8501.32,1,parts,8501,,78.2,85013200
+850133,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8501.33,1,parts,8501,,122.6,85013300
+850134,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8501.34,1,parts,8501,,1.5,85013400
+850140,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8501.40,1,parts,8501,,44.0,85014020; 85014080
+850151,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8501.51,1,parts,8501,,164.1,85015100
+850152,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8501.52,1,parts,8501,,469.4,85015220; 85015230; 85015290
+850710,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,8507.10,1,parts,8507,,214.9,85071020; 85071080
+850760,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,none,never,none,8507.60,1,parts,8507,,2244.3,85076000
+850790,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8507.90.40; 8507.90.80,2,parts,8507,,184.9,85079030; 85079080
+851110,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,8511.10.0000,1,parts,8511,,108.6,85111000
+851120,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,8511.20.00,1,parts,8511,,9.8,85112000
+851130,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,8511.30.0040; 8511.30.0080,2,parts,8511,,87.7,85113000
+851140,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,8511.40.00,1,parts,8511,,128.9,85114000
+851150,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,8511.50.00,1,parts,8511,,146.8,85115000
+851180,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8511.80.20; 8511.80.60,2,parts,8511,,32.9,85118000
+851190,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,8511.90.6020; 8511.90.6040,2,parts,8511,,24.6,85119000
+851220,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,8512.20.20; 8512.20.40,2,parts,8512,,333.3,85122000
+851230,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none,8512.30.00,1,parts,8512,,19.0,85123010; 85123090
+851240,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,8512.40.20; 8512.40.40,2,parts,8512,,14.1,85124000
+851290,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,8512.90.20; 8512.90.60; 8512.90.70,3,parts,8512,,153.1,85129010; 85129090
+851981,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8519.81.20,1,parts,8519,,6.6,85198100
+852560,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,8525.60.1010,1,parts,8525,,58.7,85256000
+852721,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,8527.21,1,parts,8527,,23.0,85272120; 85272152; 85272159; 85272170; 85272192; 85272198
+852729,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,8527.29,1,parts,8527,,16.1,85272900
+853641,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none,8536.41.0005,1,parts,8536,,85.5,85364110; 85364190
+853710,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,8537.10,1,parts,8537,,3691.5,85371010; 85371091; 85371095; 85371098
+853720,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none,8537.20,1,parts,8537,,374.4,85372091; 85372099
+853910,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none,8539.10.0010; 8539.10.0050,2,parts,8539,,18.9,85391000
+854430,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none,8544.30.00,1,parts,8544,,511.7,85443000
+870310,none,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,2025-08-18,I-B 25%,,,,8703,,3.2,87031011; 87031018
+870321,none,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,2025-08-18,I-B 25%,,,,8703,,11.8,87032110; 87032190
+870600,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,partial,partial,2025-08-18,I-B 25%,8706.00.03; 8706.00.05; 8706.00.15; 8706.00.25,4,parts,8706,,27.7,87060011; 87060019; 87060091; 87060099
+870810,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-03-12,I-B 25%,8708.10.30; 8708.10.60,2,parts,8708,,186.6,87081010; 87081090
+870840,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%,8708.40.11; 8708.40.70; 8708.40.75,3,parts,8708,,2529.5,87084020; 87084050; 87084091; 87084099
+870893,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%,8708.93.60; 8708.93.75,2,parts,8708,,162.3,87089310; 87089390
+870899,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-03-12,I-B 25%,8708.99.53; 8708.99.55; 8708.99.58; 8708.99.68,4,parts,8708,,1609.9,87089910; 87089993; 87089997
+871690,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,2025-08-18,I-B 25%,8716.90.50,1,parts,8716,,64.3,87169010; 87169030; 87169050; 87169090
+840110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8401,,0.0,84011000
+840120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8401,,36.2,84012000
+840130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8401,,18.0,84013000
+840211,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8402,,4.1,84021100
+840212,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8402,,1.9,84021200
+840219,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8402,,11.8,84021910; 84021990
+840220,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8402,,0.3,84022000
+840290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8402,,19.9,84029000
+840390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8403,,56.9,84039010; 84039090
+840410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8404,,2.8,84041000
+840420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8404,,3.3,84042000
+840490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8404,,3.6,84049000
+840510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8405,,10.7,84051000
+840590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8405,,8.7,84059000
+840610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8406,,0.4,84061000
+840681,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8406,,14.1,84068100
+840682,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8406,,4.1,84068200
+840710,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8407,,29.3,84071000
+840729,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8407,,0.6,84072900
+840810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8408,,104.4,84081011; 84081019; 84081023; 84081027; 84081039; 84081041; 84081049; 84081051; 84081059; 84081061; 84081069; 84081071; 84081079; 84081081; 84081089
+840890,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8408,,664.1,84089021; 84089027; 84089041; 84089043; 84089045; 84089047; 84089061; 84089065; 84089067; 84089081; 84089085; 84089089
+840910,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8409,,32.7,84091000
+841011,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8410,,1.0,84101100
+841012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8410,,0.6,84101200
+841013,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8410,,2.1,84101300
+841311,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8413,,11.5,84131100
+841319,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8413,,110.0,84131900
+841320,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8413,,13.5,84132000
+841340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8413,,62.5,84134000
+841350,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8413,,516.5,84135020; 84135040; 84135061; 84135069; 84135080
+841360,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8413,,316.4,84136020; 84136031; 84136039; 84136061; 84136069; 84136070; 84136080
+841370,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8413,,449.8,84137021; 84137029; 84137030; 84137035; 84137045; 84137051; 84137059; 84137065; 84137075; 84137081; 84137089
+841382,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8413,,3.1,84138200
+841392,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8413,,4.7,84139200
+841410,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8414,,342.5,84141015; 84141025; 84141081; 84141089
+841420,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8414,,1.6,84142020; 84142080
+841440,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8414,,85.1,84144010; 84144090
+841451,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8414,,5.8,84145100
+841460,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8414,,29.2,84146000
+841470,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8414,,32.7,84147000
+841610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8416,,1.2,84161010; 84161090
+841620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8416,,34.3,84162010; 84162020; 84162080
+841630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8416,,5.2,84163000
+841690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8416,,51.5,84169000
+841710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8417,,36.2,84171000
+841720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8417,,35.9,84172010; 84172090
+841780,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8417,,34.2,84178030; 84178050; 84178070
+841850,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8418,,102.8,84185011; 84185019; 84185090
+841861,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8418,,22.8,84186100
+841869,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8418,,212.6,84186900
+841891,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8418,,3.0,84189100
+841911,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,16.0,84191100
+841912,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,0.5,84191200
+841919,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,33.0,84191900
+841920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,62.1,84192000
+841933,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,18.3,84193300
+841934,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,8.3,84193400
+841935,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,18.5,84193500
+841939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,86.8,84193900
+841940,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,17.2,84194000
+841960,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,22.5,84196000
+841989,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8419,,1243.6,84198910; 84198930; 84198998
+842010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8420,,120.0,84201010; 84201030; 84201081; 84201089
+842091,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8420,,24.7,84209110; 84209180
+842099,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8420,,17.6,84209900
+842111,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8421,,1.6,84211100
+842112,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8421,,0.6,84211200
+842119,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8421,,172.4,84211920; 84211970
+842121,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8421,,340.5,84212100
+842122,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8421,,19.8,84212200
+842131,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8421,,96.7,84213100
+842139,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8421,,729.8,84213915; 84213925; 84213935; 84213985
+842191,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8421,,130.4,84219100
+842199,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8421,,603.3,84219910; 84219990
+842219,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8422,,23.8,84221900
+842220,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8422,,84.1,84222000
+842230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8422,,1189.9,84223000
+842240,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8422,,1139.1,84224000
+842310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8423,,3.9,84231010; 84231090
+842320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8423,,4.0,84232010; 84232090
+842330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8423,,41.7,84233010; 84233090
+842381,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8423,,21.7,84238121; 84238123; 84238125; 84238129; 84238180
+842382,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8423,,36.1,84238220; 84238281; 84238289
+842389,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8423,,1.9,84238920; 84238980
+842390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8423,,32.3,84239010; 84239090
+842420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8424,,42.6,84242000
+842430,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8424,,80.5,84243001; 84243008; 84243010; 84243090
+842441,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8424,,3.3,84244100
+842449,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8424,,13.9,84244910; 84244990
+842482,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8424,,14.9,84248210; 84248290
+842511,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8425,,63.7,84251100
+842519,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8425,,14.7,84251900
+842531,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8425,,44.8,84253100
+842539,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8425,,56.0,84253900
+842541,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8425,,17.4,84254100
+842611,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8426,,51.3,84261100
+842612,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8426,,30.8,84261200
+842619,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8426,,47.7,84261900
+842630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8426,,9.8,84263000
+842641,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8426,,240.4,84264100
+842810,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8428,,68.4,84281020; 84281080
+842820,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8428,,62.2,84282020; 84282080
+842831,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8428,,1.2,84283100
+842840,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8428,,11.2,84284000
+843010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8430,,23.9,84301000
+843020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8430,,8.4,84302000
+843031,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8430,,34.3,84303100
+843039,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8430,,29.2,84303900
+843041,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8430,,282.2,84304100
+843049,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8430,,21.9,84304900
+843050,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8430,,39.4,84305000
+843061,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8430,,27.4,84306100
+843069,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8430,,68.2,84306900
+843221,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8432,,22.2,84322100
+843229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8432,,37.1,84322910; 84322930; 84322950; 84322990
+843231,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8432,,7.0,84323100
+843239,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8432,,29.7,84323911; 84323919; 84323990
+843241,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8432,,4.1,84324100
+843242,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8432,,8.9,84324200
+843280,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8432,,71.0,84328000
+843319,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8433,,5.0,84331910; 84331951; 84331970; 84331990
+843330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8433,,60.5,84333000
+843340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8433,,108.0,84334000
+843352,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8433,,6.0,84335200
+843353,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8433,,20.0,84335310; 84335330; 84335390
+843360,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8433,,155.9,84336000
+843410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8434,,10.3,84341000
+843420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8434,,39.8,84342000
+843490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8434,,49.7,84349000
+843510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8435,,17.4,84351000
+843590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8435,,5.9,84359000
+843610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8436,,26.2,84361000
+843621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8436,,20.1,84362100
+843629,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8436,,203.8,84362900
+843680,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8436,,179.4,84368010; 84368090
+843691,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8436,,70.4,84369100
+843699,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8436,,42.6,84369900
+843710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8437,,14.5,84371000
+843780,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8437,,15.5,84378000
+843790,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8437,,18.0,84379000
+843810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8438,,216.2,84381010; 84381090
+843820,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8438,,212.8,84382000
+843830,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8438,,10.5,84383000
+843840,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8438,,9.8,84384000
+843850,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8438,,269.5,84385000
+843860,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8438,,60.3,84386000
+843880,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8438,,256.0,84388010; 84388091; 84388099
+843890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8438,,420.7,84389000
+843910,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8439,,30.4,84391000
+843920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8439,,111.1,84392000
+843930,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8439,,76.8,84393000
+843991,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8439,,40.2,84399100
+843999,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8439,,274.5,84399900
+844010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8440,,70.6,84401010; 84401020; 84401030; 84401040; 84401090
+844090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8440,,18.2,84409000
+844110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8441,,102.1,84411010; 84411020; 84411030; 84411070
+844120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8441,,66.9,84412000
+844130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8441,,121.0,84413000
+844140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8441,,22.0,84414000
+844180,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8441,,239.0,84418000
+844190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8441,,198.1,84419010; 84419090
+844230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8442,,32.9,84423000
+844240,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8442,,10.5,84424000
+844250,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8442,,11.0,84425000
+844311,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8443,,17.3,84431100
+844312,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8443,,0.2,84431200
+844313,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8443,,113.5,84431310; 84431332; 84431334; 84431338; 84431390
+844314,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8443,,0.5,84431400
+844315,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8443,,0.3,84431500
+844317,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8443,,6.8,84431700
+844319,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8443,,125.4,84431920; 84431940; 84431970
+844331,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8443,,2.9,84433100
+844332,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8443,,234.3,84433210; 84433280
+844339,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8443,,20.0,84433900
+844391,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8443,,134.7,84439110; 84439191; 84439199
+844399,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8443,,345.2,84439910; 84439990
+844400,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8444,,13.7,84440010; 84440090
+844511,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8445,,2.5,84451100
+844512,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8445,,0.6,84451200
+844513,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8445,,1.1,84451300
+844519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8445,,6.1,84451900
+844520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8445,,1.0,84452000
+844530,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8445,,3.5,84453000
+844540,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8445,,11.6,84454000
+844590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8445,,6.0,84459000
+844610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8446,,0.4,84461000
+844621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8446,,2.0,84462100
+844629,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8446,,0.6,84462900
+844630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8446,,12.6,84463000
+844711,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8447,,3.8,84471100
+844712,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8447,,1.8,84471200
+844720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8447,,0.6,84472020; 84472080
+844790,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8447,,18.2,84479000
+844811,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,1.1,84481100
+844819,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,3.9,84481900
+844820,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,25.3,84482000
+844831,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,7.9,84483100
+844832,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,6.9,84483200
+844833,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,0.5,84483300
+844839,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,17.3,84483900
+844842,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,0.7,84484200
+844849,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,13.2,84484900
+844851,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,0.3,84485110; 84485190
+844859,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8448,,12.8,84485900
+844900,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8449,,83.4,84490000
+845012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8450,,0.1,84501200
+845019,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8450,,0.1,84501900
+845090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8450,,23.4,84509000
+845110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8451,,7.0,84511000
+845130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8451,,20.6,84513000
+845140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8451,,15.7,84514000
+845150,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8451,,54.8,84515000
+845180,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8451,,23.7,84518010; 84518030; 84518080
+845190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8451,,32.6,84519000
+845210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8452,,0.1,84521011; 84521019; 84521090
+845221,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8452,,10.5,84522100
+845229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8452,,10.6,84522900
+845230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8452,,0.0,84523000
+845290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8452,,4.0,84529000
+845310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8453,,6.3,84531000
+845320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8453,,4.4,84532000
+845380,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8453,,1.4,84538000
+845390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8453,,14.5,84539000
+845410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8454,,0.3,84541000
+845430,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8454,,58.0,84543010; 84543090
+845490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8454,,86.7,84549000
+845510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8455,,17.2,84551000
+845521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8455,,52.5,84552100
+845522,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8455,,37.6,84552200
+845611,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8456,,303.6,84561110; 84561190
+845612,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8456,,2.0,84561210; 84561290
+845620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8456,,3.9,84562000
+845630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8456,,8.4,84563011; 84563019; 84563090
+845640,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8456,,33.1,84564000
+845650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8456,,7.6,84565000
+845690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8456,,17.9,84569000
+845720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8457,,29.3,84572000
+845730,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8457,,111.8,84573010; 84573090
+845811,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8458,,121.9,84581120; 84581141; 84581149; 84581180
+845819,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8458,,7.0,84581900
+845891,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8458,,46.1,84589120; 84589180
+845899,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8458,,1.1,84589900
+845910,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,5.2,84591000
+845921,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,30.7,84592100
+845929,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,6.1,84592900
+845931,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,70.5,84593100
+845939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,1.3,84593900
+845941,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,0.0,84594100
+845949,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,1.9,84594900
+845951,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,0.5,84595100
+845959,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,0.1,84595900
+845961,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,81.4,84596110; 84596190
+845969,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,10.5,84596910; 84596990
+845970,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8459,,4.9,84597000
+846012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8460,,18.3,84601200
+846019,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8460,,11.6,84601900
+846022,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8460,,1.7,84602200
+846023,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8460,,81.9,84602300
+846024,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8460,,46.2,84602400
+846029,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8460,,10.2,84602910; 84602990
+846031,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8460,,10.5,84603100
+846039,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8460,,8.4,84603900
+846040,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8460,,22.1,84604010; 84604090
+846090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8460,,21.5,84609000
+846120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8461,,3.0,84612000
+846130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8461,,3.7,84613010; 84613090
+846140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8461,,45.5,84614011; 84614019; 84614031; 84614039; 84614071; 84614090
+846150,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8461,,95.0,84615011; 84615019; 84615090
+846190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8461,,7.9,84619000
+846211,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,20.0,84621110; 84621190
+846219,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,14.6,84621910; 84621990
+846222,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,75.1,84622210; 84622290
+846223,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,114.9,84622300
+846224,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,75.0,84622400
+846225,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,1.6,84622500
+846226,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,57.5,84622600
+846229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,35.2,84622900
+846232,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,87.7,84623210; 84623290
+846233,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,7.6,84623300
+846239,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,22.6,84623900
+846242,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,84.4,84624200
+846249,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,7.0,84624900
+846251,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,31.8,84625100
+846259,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,13.4,84625900
+846261,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,54.6,84626110; 84626190
+846262,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,32.3,84626210; 84626290
+846263,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,21.8,84626310; 84626390
+846269,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,11.3,84626910; 84626990
+846290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8462,,69.0,84629010; 84629090
+846310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8463,,84.6,84631010; 84631090
+846320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8463,,9.8,84632000
+846330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8463,,19.3,84633000
+846390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8463,,50.0,84639000
+846410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8464,,42.3,84641000
+846420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8464,,69.2,84642011; 84642019; 84642080
+846490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8464,,68.2,84649000
+846510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8465,,140.2,84651010; 84651090
+846520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8465,,34.9,84652000
+846591,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8465,,79.5,84659110; 84659120; 84659190
+846592,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8465,,36.6,84659200
+846593,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8465,,47.6,84659300
+846594,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8465,,40.2,84659400
+846595,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8465,,19.2,84659500
+846596,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8465,,6.4,84659600
+846599,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8465,,85.8,84659900
+846610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8466,,269.0,84661020; 84661031; 84661038; 84661080
+846620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8466,,130.0,84662020; 84662091; 84662098
+846630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8466,,21.5,84663000
+846691,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8466,,49.3,84669120; 84669195
+846692,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8466,,96.4,84669220; 84669280
+846693,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8466,,329.8,84669340; 84669350; 84669360
+846694,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8466,,268.3,84669400
+846711,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8467,,12.4,84671110; 84671190
+846719,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8467,,18.8,84671900
+846721,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8467,,46.0,84672110; 84672191; 84672199
+846791,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8467,,5.8,84679100
+846792,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8467,,13.7,84679200
+846799,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8467,,71.2,84679900
+846810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8468,,9.1,84681000
+846820,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8468,,8.1,84682000
+846880,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8468,,10.9,84688000
+846890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8468,,12.1,84689000
+847010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8470,,1.5,84701000
+847021,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8470,,0.1,84702100
+847029,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8470,,0.3,84702900
+847030,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8470,,0.2,84703000
+847050,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8470,,13.6,84705000
+847090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8470,,11.7,84709000
+847210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8472,,,
+847230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8472,,34.7,84723000
+847290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8472,,127.1,84729010; 84729080
+847321,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8473,,0.5,84732110; 84732190
+847329,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8473,,25.5,84732910; 84732990
+847340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8473,,66.2,84734010; 84734080
+847350,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8473,,20.5,84735020; 84735080
+847410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8474,,65.2,84741000
+847420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8474,,206.3,84742000
+847431,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8474,,22.3,84743100
+847432,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8474,,4.0,84743200
+847439,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8474,,29.3,84743900
+847480,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8474,,105.4,84748010; 84748090
+847510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8475,,18.0,84751000
+847521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8475,,1.5,84752100
+847529,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8475,,90.4,84752900
+847590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8475,,111.1,84759010; 84759090
+847621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8476,,7.9,84762100
+847629,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8476,,1.1,84762900
+847681,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8476,,2.5,84768100
+847689,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8476,,8.7,84768910; 84768990
+847690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8476,,27.9,84769010; 84769090
+847720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8477,,197.9,84772000
+847730,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8477,,122.6,84773000
+847740,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8477,,64.1,84774000
+847751,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8477,,83.2,84775100
+847759,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8477,,110.3,84775910; 84775980
+847780,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8477,,465.9,84778011; 84778019; 84778091; 84778093; 84778095; 84778099
+847810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8478,,43.8,84781000
+847890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8478,,7.7,84789000
+847910,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,365.4,84791000
+847920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,11.3,84792000
+847930,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,126.0,84793010; 84793090
+847940,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,129.7,84794000
+847950,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,407.4,84795000
+847960,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,2.6,84796000
+847971,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,0.8,84797100
+847979,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,14.3,84797900
+847981,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,163.1,84798100
+847982,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,429.9,84798200
+847983,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8479,,5.4,84798300
+848010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8480,,0.8,84801000
+848020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8480,,1.0,84802000
+848030,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8480,,2.5,84803010; 84803090
+848041,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8480,,22.4,84804100
+848050,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8480,,34.1,84805000
+848060,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8480,,47.1,84806000
+848110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8481,,130.9,84811005; 84811019; 84811099
+848120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8481,,584.6,84812010; 84812090
+848130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8481,,114.2,84813091; 84813099
+848140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8481,,139.0,84814010; 84814090
+848180,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8481,,1850.2,84818011; 84818019; 84818031; 84818039; 84818040; 84818051; 84818059; 84818061; 84818063; 84818069; 84818071; 84818073; 84818079; 84818081; 84818085; 84818087; 84818099
+848230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8482,,134.0,84823000
+848280,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8482,,28.1,84828000
+848291,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8482,,36.4,84829110; 84829190
+848410,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8484,,98.8,84841000
+848420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8484,,137.3,84842000
+848490,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8484,,137.3,84849000
+848510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8485,,157.4,84851000
+848520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8485,,58.6,84852000
+848530,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8485,,3.5,84853010; 84853090
+848580,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8485,,12.1,84858010; 84858090
+848590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8485,,43.3,84859010; 84859090
+848710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8487,,14.1,84871010; 84871090
+850110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8501,,252.9,85011010; 85011091; 85011093; 85011099
+850120,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8501,,29.5,85012000
+850131,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8501,,323.3,85013100
+850161,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8501,,47.6,85016120; 85016180
+850162,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8501,,68.7,85016200
+850163,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8501,,2.9,85016300
+850171,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8501,,0.0,85017100
+850172,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8501,,1.6,85017200
+850180,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8501,,5.5,85018000
+850211,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8502,,34.7,85021120; 85021180
+850212,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8502,,30.0,85021200
+850213,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8502,,55.3,85021320; 85021340; 85021380
+850239,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8502,,212.6,85023920; 85023980
+850240,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8502,,7.6,85024000
+850410,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8504,,24.6,85041020; 85041080
+850440,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8504,,2964.6,85044060; 85044083; 85044085; 85044086; 85044095
+850450,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8504,,129.0,85045000
+850519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8505,,9.9,85051910; 85051990
+850520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8505,,49.7,85052000
+850590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8505,,89.8,85059021; 85059029; 85059050; 85059090
+850610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8506,,74.9,85061011; 85061018; 85061091; 85061098
+850630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8506,,0.0,85063000
+850640,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8506,,0.4,85064000
+850650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8506,,57.1,85065010; 85065030; 85065090
+850660,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8506,,10.0,85066000
+850680,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8506,,5.1,85068005; 85068080
+850690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8506,,2.7,85069000
+850720,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8507,,150.3,85072020; 85072080
+850730,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8507,,80.4,85073020; 85073080
+850750,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8507,,13.0,85075000
+850780,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8507,,9.9,85078000
+850811,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8508,,71.1,85081100
+850819,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8508,,28.9,85081900
+850860,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8508,,3.3,85086000
+850940,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8509,,23.4,85094000
+850990,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8509,,3.2,85099000
+851010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8510,,77.0,85101000
+851020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8510,,6.6,85102000
+851030,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8510,,10.4,85103000
+851090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8510,,18.4,85109000
+851210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8512,,1.7,85121000
+851310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8513,,8.2,85131000
+851411,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8514,,4.3,85141100
+851419,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8514,,145.1,85141910; 85141980
+851431,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8514,,36.5,85143110; 85143190
+851432,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8514,,31.2,85143210; 85143290
+851439,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8514,,19.9,85143910; 85143990
+851440,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8514,,34.4,85144000
+851490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8514,,109.1,85149030; 85149070
+851511,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8515,,8.0,85151100
+851519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8515,,29.3,85151910; 85151990
+851521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8515,,80.6,85152100
+851529,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8515,,8.5,85152900
+851531,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8515,,95.8,85153100
+851539,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8515,,16.7,85153913; 85153918; 85153990
+851580,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8515,,155.2,85158010; 85158090
+851610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8516,,56.4,85161011; 85161080
+851621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8516,,0.5,85162100
+851631,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8516,,8.5,85163100
+851632,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8516,,1.2,85163200
+851633,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8516,,1.6,85163300
+851640,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8516,,10.3,85164000
+851650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8516,,2.0,85165000
+851671,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8516,,215.9,85167100
+851672,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8516,,0.1,85167200
+851679,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8516,,37.1,85167920; 85167970
+851680,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8516,,129.2,85168020; 85168080
+851711,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8517,,4.6,85171100
+851714,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8517,,19.2,85171400
+851718,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8517,,15.6,85171800
+851761,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8517,,30.3,85176100
+851769,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8517,,202.3,85176910; 85176920; 85176930; 85176990
+851810,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8518,,66.6,85181000
+851821,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8518,,43.4,85182100
+851822,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8518,,151.8,85182200
+851829,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8518,,40.8,85182900
+851830,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8518,,106.3,85183000
+851840,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8518,,92.3,85184000
+851850,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8518,,39.5,85185000
+851890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8518,,28.5,85189000
+851920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8519,,0.1,85192010; 85192091; 85192099
+851930,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8519,,3.5,85193000
+851989,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8519,,18.7,85198900
+852110,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8521,,0.8,85211020; 85211095
+852190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8521,,85.1,85219000
+852210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8522,,2.6,85221000
+852290,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8522,,13.0,85229000
+852321,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8523,,1.8,85232100
+852329,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8523,,10.7,85232915; 85232919; 85232990
+852341,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8523,,1.0,85234110; 85234130; 85234190
+852349,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8523,,157.5,85234910; 85234920; 85234990
+852352,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8523,,90.5,85235200
+852359,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8523,,11.7,85235910; 85235990
+852380,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8523,,97.9,85238010; 85238090
+852550,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8525,,28.1,85255000
+852581,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8525,,10.0,85258100
+852582,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8525,,4.6,85258200
+852583,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8525,,9.5,85258300
+852589,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8525,,867.5,85258900
+852610,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8526,,638.6,85261000
+852691,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8526,,291.9,85269120; 85269180
+852692,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8526,,126.4,85269200
+852712,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8527,,0.0,85271200
+852713,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8527,,0.3,85271300
+852719,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8527,,3.7,85271900
+852791,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8527,,0.3,85279100
+852792,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8527,,0.1,85279200
+852799,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8527,,1.8,85279900
+852842,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8528,,1.8,85284200
+852849,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8528,,0.4,85284900
+852859,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8528,,67.7,85285900
+852862,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8528,,70.3,85286200
+852869,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8528,,9.2,85286920; 85286980
+852871,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8528,,3.7,85287111; 85287115; 85287119; 85287191; 85287199
+852872,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8528,,1.8,85287210; 85287220; 85287240; 85287260; 85287280
+852873,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8528,,0.1,85287300
+852910,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8529,,139.0,85291011; 85291030; 85291065; 85291069; 85291080; 85291095
+853010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8530,,7.5,85301000
+853080,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8530,,32.9,85308000
+853090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8530,,23.9,85309000
+853110,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8531,,98.2,85311030; 85311095
+853120,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8531,,67.4,85312020; 85312040; 85312095
+853180,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8531,,125.8,85318040; 85318070
+853190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8531,,39.8,85319000
+853210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8532,,8.2,85321000
+853221,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8532,,16.8,85322100
+853222,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8532,,43.5,85322200
+853223,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8532,,7.4,85322300
+853224,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8532,,23.3,85322400
+853225,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8532,,35.0,85322500
+853229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8532,,21.0,85322900
+853230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8532,,0.9,85323000
+853290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8532,,4.6,85329000
+853310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8533,,4.6,85331000
+853321,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8533,,106.3,85332100
+853329,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8533,,29.1,85332900
+853331,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8533,,2.0,85333100
+853339,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8533,,0.9,85333900
+853340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8533,,72.6,85334010; 85334090
+853390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8533,,4.4,85339000
+853400,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8534,,156.9,85340011; 85340019; 85340090
+853510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8535,,11.1,85351000
+853521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8535,,8.0,85352100
+853529,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8535,,30.9,85352900
+853530,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8535,,102.3,85353010; 85353090
+853540,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8535,,29.2,85354000
+853590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8535,,147.4,85359000
+853610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8536,,28.9,85361010; 85361050; 85361090
+853620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8536,,503.0,85362010; 85362090
+853630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8536,,158.3,85363010; 85363030; 85363090
+853649,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8536,,214.5,85364900
+853650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8536,,623.0,85365003; 85365005; 85365007; 85365011; 85365015; 85365019; 85365080
+853661,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8536,,7.7,85366110; 85366190
+853669,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8536,,542.2,85366910; 85366930; 85366990
+853670,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8536,,19.7,85367000
+853890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8538,,909.2,85389011; 85389019; 85389091; 85389099
+853921,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8539,,69.9,85392130; 85392192; 85392198
+853922,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8539,,0.9,85392210; 85392290
+853929,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8539,,26.1,85392930; 85392992; 85392998
+853931,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8539,,25.7,85393110; 85393190
+853932,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8539,,10.3,85393220; 85393290
+853939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8539,,3.7,85393920; 85393980
+853941,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8539,,55.1,85394100
+853949,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8539,,69.2,85394900
+853951,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8539,,26.9,85395100
+853952,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8539,,23.4,85395200
+853990,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8539,,7.2,85399010; 85399090
+854011,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,0.0,85401100
+854012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,0.0,85401200
+854020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,11.0,85402010; 85402080
+854040,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,0.2,85404000
+854060,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,0.6,85406000
+854071,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,6.8,85407100
+854079,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,49.9,85407900
+854081,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,10.2,85408100
+854089,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,10.1,85408900
+854091,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,6.6,85409100
+854099,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8540,,4.7,85409900
+854142,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8541,,16.2,85414200
+854143,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8541,,84.8,85414300
+854160,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8541,,32.9,85416000
+854310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8543,,31.7,85431000
+854320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8543,,79.8,85432000
+854330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8543,,54.0,85433040; 85433070
+854340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8543,,1.8,85434000
+854370,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none,,,,8543,,823.3,85437001; 85437002; 85437003; 85437004; 85437005; 85437006; 85437007; 85437008; 85437009; 85437010; 85437030; 85437050; 85437060; 85437090
+854411,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8544,,59.4,85441110; 85441190
+854420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8544,,72.1,85442000
+854470,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8544,,122.3,85447000
+854511,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8545,,25.4,85451100
+854519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8545,,17.2,85451900
+854520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8545,,39.9,85452000
+854590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8545,,7.4,85459010; 85459090
+854610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8546,,6.1,85461000
+854620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8546,,36.3,85462000
+854690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8546,,53.2,85469010; 85469090
+854710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8547,,15.6,85471000
+854720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8547,,87.4,85472000
+854800,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8548,,24.8,85480020; 85480030; 85480090
+854911,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,0.0,85491110
+854912,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,,
+854913,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,,
+854914,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,0.0,85491490
+854919,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,0.3,85491910; 85491920; 85491990
+854921,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,0.0,85492100
+854929,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,0.6,85492900
+854931,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,0.0,85493100
+854939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,0.2,85493900
+854991,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,0.0,85499100
+854999,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8549,,0.3,85499900
+860630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8606,,,
+860691,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8606,,,
+860692,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8606,,,
+860699,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8606,,0.4,86069900
+860712,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8607,,17.2,86071200
+860729,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8607,,4.5,86072900
+860800,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8608,,12.5,86080000
+870530,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none,,,,8705,,4.6,87053000
+871110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8711,,5.6,87111000
+871120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8711,,93.4,87112010; 87112092; 87112098
+871140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8711,,68.9,87114000
+871190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8711,,0.7,87119000
+871200,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8712,,31.6,87120030; 87120070
+871310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8713,,3.4,87131000
+871390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8713,,0.5,87139000
+871420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8714,,67.1,87142000
+871491,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8714,,16.1,87149110; 87149130; 87149190
+871492,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8714,,2.6,87149210; 87149290
+871493,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8714,,3.6,87149300
+871494,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8714,,2.8,87149420; 87149490
+871495,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8714,,8.2,87149500
+871496,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8714,,7.2,87149610; 87149630; 87149690
+871499,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8714,,30.3,87149910; 87149930; 87149950; 87149990
+871500,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none,,,,8715,,5.9,87150010; 87150090
+871620,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none,,,,8716,,2.1,87162000
+871631,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none,,,,8716,,0.0,87163100
+871640,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none,,,,8716,,13.3,87164000

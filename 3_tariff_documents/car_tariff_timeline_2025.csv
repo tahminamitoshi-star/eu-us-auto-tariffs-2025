@@ -1,0 +1,11 @@
+origin,goods,from_date,to_date,us_tariff_total_pct,how_the_rate_is_built,legal_source,note
+EU,passenger cars (8703),2025-04-03,2025-07-31,27.5,MFN 2.5 + Section 232 25,Proclamation 10908 (26 Mar 2025),
+EU,passenger cars (8703),2025-08-01,,15.0,all-in 15 incl. MFN,FR 2025-18660 (published 25 Sep 2025),retroactive to 1 Aug 2025; exporters paid 27.5 at entry until late Sep and claimed refunds
+EU,car parts (Annex I),2025-05-03,2025-07-31,25 + MFN,MFN + Section 232 25,Proclamation 10908,
+EU,car parts (Annex I),2025-08-01,,15.0,all-in 15 incl. MFN,FR 2025-18660,retroactive to 1 Aug 2025
+Japan,passenger cars and light trucks (9903.94.41),2025-04-03,2025-09-15,27.5,MFN 2.5 + Section 232 25,Proclamation 10908,
+Japan,passenger cars and light trucks (9903.94.41),2025-09-16,,15.0,all-in 15 incl. MFN,EO 14345 (4 Sep 2025); Commerce notice 90 FR 44638 (16 Sep 2025),not retroactive
+Japan,car parts (9903.94.43),2025-09-16,,15.0,all-in 15 incl. MFN,90 FR 44638,not retroactive
+Korea,passenger cars and light trucks (9903.94.61),2025-04-03,2025-10-31,25.0,KORUS duty-free (CRS IN12545) + Section 232 25,Proclamation 10908,
+Korea,passenger cars and light trucks (9903.94.61),2025-11-01,,15.0,all-in 15 incl. MFN,Commerce/USTR notice 90 FR 55964 (4 Dec 2025),retroactive to 1 Nov 2025
+Korea,car parts (9903.94.63; 9903.94.65),2025-11-01,,15.0,all-in 15 incl. MFN,90 FR 55964,retroactive to 1 Nov 2025

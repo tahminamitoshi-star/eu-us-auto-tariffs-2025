@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+~$*
+2_raw_data/eurostat_comext_extracted/*
+!2_raw_data/eurostat_comext_extracted/.gitkeep
+2_raw_data/eurostat_comext_monthly/
+7_processed_data/placebo_control.parquet
+7_processed_data/placebo_us2024_by_hs6.csv
+6_results_and_notes/

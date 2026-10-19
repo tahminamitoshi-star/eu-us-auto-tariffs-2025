@@ -1,0 +1,956 @@
+hs6,annex_status,group_v3,group_v4,aircraft_dual_use,ag_tractor,truck_bus_vehicle,truck_part,metal_2025_from,metal_2026_tier
+840110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840140,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+840211,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840212,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840219,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840220,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840310,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+840390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840681,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840682,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840690,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+840710,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+840721,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none
+840729,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840731,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none
+840732,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none
+840733,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none
+840734,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none
+840790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+840810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+840820,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,none
+840890,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+840910,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+840991,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,none
+840999,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,none
+841011,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841013,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841090,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+841111,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841112,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841121,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841122,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841181,none,9 DROPPED,9 DROPPED,true,false,none,none,2025-08-18,I-B 25%
+841182,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841191,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841199,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841210,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841221,none,9 DROPPED,9 DROPPED,true,false,none,none,2025-08-18,I-B 25%
+841229,none,9 DROPPED,9 DROPPED,true,false,none,none,2025-08-18,I-B 25%
+841231,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841239,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841280,none,9 DROPPED,9 DROPPED,true,false,none,none,never,none
+841290,none,9 DROPPED,9 DROPPED,true,false,none,none,2025-08-18,I-B 25%
+841311,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841319,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+841320,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+841330,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+841340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841350,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+841360,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+841370,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+841381,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+841382,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841391,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%
+841392,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841410,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+841420,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+841430,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%
+841440,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841451,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+841459,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-03-12,I-B 25%
+841460,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841470,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841480,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%
+841490,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+841510,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+841520,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none
+841581,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+841582,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+841583,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+841590,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%
+841610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841780,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+841810,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-06-23,I-B 25%
+841821,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+841829,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+841830,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-06-23,I-B 25%
+841840,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-06-23,I-B 25%
+841850,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841861,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+841869,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+841891,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841899,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+841911,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841912,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841919,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841933,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841934,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841935,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841940,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841950,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%
+841960,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841981,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+841989,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+841990,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%
+842010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842091,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842099,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842111,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842112,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842119,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+842121,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+842122,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842123,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none
+842129,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,III 15% all-in
+842131,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+842132,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none
+842139,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+842191,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842199,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842211,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%
+842219,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842220,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842240,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842290,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+842310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842381,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842382,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842389,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842410,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,none
+842420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842430,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842441,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842449,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842482,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842489,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+842490,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+842511,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+842519,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+842531,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+842539,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+842541,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842542,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+842549,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none
+842611,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842612,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842619,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842620,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842641,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842649,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,never,I-B 25%
+842691,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none
+842699,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+842710,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842720,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842810,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+842820,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+842831,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842832,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+842833,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,III 15% all-in
+842839,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,III 15% all-in
+842840,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+842860,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+842870,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+842890,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,III 15% all-in
+842911,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842919,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842920,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842930,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842940,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842951,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842952,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+842959,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+843010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843031,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843039,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843041,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843049,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843050,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843061,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843069,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843110,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none
+843120,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+843131,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+843139,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+843141,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+843142,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+843143,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+843149,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+843210,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+843221,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843231,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843239,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843241,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843242,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843280,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843290,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+843311,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+843319,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843320,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+843330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843351,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+843352,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843353,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843359,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+843360,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843390,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+843410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843629,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843680,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843691,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843699,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843780,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843790,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843820,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843830,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843840,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843850,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843860,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843880,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843910,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843930,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843991,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+843999,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844180,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844240,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844250,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844311,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844312,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844313,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844314,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844315,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844316,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+844317,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844319,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844331,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+844332,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+844339,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844391,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844399,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844400,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844511,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844512,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844513,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844530,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844540,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844629,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844711,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844712,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844790,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844811,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844819,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844820,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844831,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844832,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844833,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844839,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844842,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844849,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844851,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844859,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+844900,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845011,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%
+845012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845019,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845020,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%
+845090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845121,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%
+845129,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%
+845130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845150,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845180,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845221,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845380,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845420,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+845430,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845522,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845530,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+845590,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+845611,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845612,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845640,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845710,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+845720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845730,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845811,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845819,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845891,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845899,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845910,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845921,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845929,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845931,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845941,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845949,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845951,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845959,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845961,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845969,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+845970,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846019,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846022,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846023,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846024,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846029,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846031,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846039,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846040,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846150,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846211,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846219,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846222,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846223,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846224,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846225,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846226,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846232,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846233,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846239,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846242,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846249,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846251,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846259,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846261,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846262,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846263,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846269,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846591,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846592,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846593,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846594,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846595,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846596,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846599,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846691,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846692,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846693,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846694,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846711,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846719,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846721,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846722,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+846729,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+846781,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+846789,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+846791,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846792,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846799,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846820,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846880,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+846890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847021,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847029,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847030,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847050,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847130,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none
+847141,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none
+847149,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none
+847150,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none
+847160,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none
+847170,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none
+847180,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none
+847190,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none
+847210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847321,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847329,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847330,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,2025-03-12,none
+847340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847350,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847410,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847431,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847432,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847439,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847480,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847490,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+847510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847529,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847629,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847681,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847689,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847710,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+847720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847730,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847740,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847751,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847759,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847780,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+847810,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847910,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847930,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847940,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847950,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847960,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847971,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847979,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847981,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847982,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847983,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+847989,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%
+847990,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%
+848010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848030,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848041,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848049,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+848050,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848060,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848071,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+848079,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+848110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848130,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848180,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848190,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+848210,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%
+848220,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%
+848230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848240,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none
+848250,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none
+848280,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848291,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848299,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+848310,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,2025-08-18,I-B 25%
+848320,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+848330,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+848340,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+848350,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+848360,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+848390,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+848410,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+848420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848490,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+848510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848530,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848580,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848610,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+848620,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+848630,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+848640,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+848690,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,2025-03-12,none
+848710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+848790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+850110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850120,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850131,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850132,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+850133,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+850134,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+850140,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+850151,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+850152,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+850153,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+850161,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850162,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850163,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850164,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+850171,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850172,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850180,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850211,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850212,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850213,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850220,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+850231,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+850239,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850240,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850300,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+850410,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850421,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,never,I-B 25%
+850422,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,never,I-B 25%
+850423,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+850431,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+850432,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,never,I-B 25%
+850433,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+850434,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,III 15% all-in
+850440,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850450,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850490,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+850511,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+850519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850640,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850660,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850680,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850710,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none
+850720,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850730,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850750,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850760,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,none,never,none
+850780,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+850790,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+850811,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850819,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850860,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850870,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+850940,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+850980,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%
+850990,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851030,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851110,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none
+851120,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none
+851130,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none
+851140,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none
+851150,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none
+851180,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+851190,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none
+851210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851220,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none
+851230,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,full,never,none
+851240,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none
+851290,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none
+851310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851390,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+851411,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851419,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851420,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-08-18,I-B 25%
+851431,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851432,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851439,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851440,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851490,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851511,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851529,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851531,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851539,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851580,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851590,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+851610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851621,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851629,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+851631,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851632,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851633,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851640,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851660,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-06-23,I-B 25%
+851671,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851672,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851679,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851680,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851690,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+851711,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851713,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+851714,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851718,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851761,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851762,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+851769,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851771,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%
+851779,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,none
+851810,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851821,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851822,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851829,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851830,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851840,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851850,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+851890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851920,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851930,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+851981,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+851989,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+852110,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+852190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852290,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+852321,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852329,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852341,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852349,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852351,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+852352,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852359,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852380,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852411,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+852412,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+852419,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+852491,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+852492,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+852499,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+852550,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852560,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none
+852581,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852582,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852583,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852589,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852610,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+852691,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+852692,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+852712,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852713,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852719,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852721,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none
+852729,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none
+852791,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852792,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852799,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852842,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+852849,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852852,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+852859,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852862,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+852869,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852871,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852872,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852873,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+852910,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+852990,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%
+853010,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853080,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853090,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853110,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+853120,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+853180,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+853190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853210,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853221,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853222,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853223,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853224,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853225,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853229,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853230,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853290,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853321,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853329,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853331,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853339,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853400,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853510,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853521,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853529,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853530,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853540,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853641,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,never,none
+853649,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853650,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853661,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853669,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853670,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+853690,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+853710,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none
+853720,full,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,never,none
+853810,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+853890,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853910,partial,3 UNCERTAIN,3 UNCERTAIN,true,false,none,partial,never,none
+853921,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853922,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853929,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853931,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853932,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853941,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853949,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853951,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+853952,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+853990,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854011,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854012,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854020,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854040,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854060,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854071,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854079,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854081,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854089,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854091,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854099,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854110,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854121,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854129,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854130,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854141,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854142,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854143,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854149,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854151,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854159,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854160,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854190,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,2025-03-12,none
+854231,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854232,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854233,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854239,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854290,none,5 EXEMPT_ELECTRONICS,5 EXEMPT_ELECTRONICS,false,false,none,none,never,none
+854310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854320,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854330,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854340,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854370,none,4 CONTROL,4 CONTROL,true,false,none,none,never,none
+854390,none,4 CONTROL,4m CONTROL_METAL,true,false,none,none,2025-03-12,I-B 25%
+854411,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854419,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+854420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854430,full,3 UNCERTAIN,3 UNCERTAIN,true,false,none,full,never,none
+854442,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+854449,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+854460,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+854470,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854511,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854519,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854520,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854590,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854610,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854620,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854690,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854710,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854720,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854790,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+854800,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854911,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854912,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854913,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854914,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854919,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854921,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854929,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854931,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854939,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854991,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+854999,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+860110,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860120,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860210,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860290,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860310,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860390,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860400,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860500,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860610,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,never,I-B 25%
+860630,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+860691,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+860692,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+860699,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+860711,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860712,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+860719,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860721,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860729,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+860730,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860791,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860799,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+860800,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+860900,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+870110,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+870121,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,2025-08-18,I-B 25%
+870122,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,2025-08-18,I-B 25%
+870123,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,2025-08-18,I-B 25%
+870124,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,2025-08-18,I-B 25%
+870129,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,2025-08-18,I-B 25%
+870130,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+870191,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,true,none,none,2025-08-18,I-B 25%
+870192,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,true,none,none,2025-08-18,I-B 25%
+870193,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,true,none,none,2025-08-18,I-B 25%
+870194,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,true,none,none,2025-08-18,I-B 25%
+870195,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,true,none,none,2025-08-18,I-B 25%
+870210,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,2025-08-18,I-B 25%
+870220,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none
+870230,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none
+870240,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none
+870290,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none
+870310,none,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,2025-08-18,I-B 25%
+870321,none,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,2025-08-18,I-B 25%
+870322,full,1 CARS,1 CARS,false,false,none,none,never,none
+870323,full,1 CARS,1 CARS,false,false,none,none,never,none
+870324,full,1 CARS,1 CARS,false,false,none,none,never,none
+870331,full,1 CARS,1 CARS,false,false,none,none,never,none
+870332,full,1 CARS,1 CARS,false,false,none,none,never,none
+870333,full,1 CARS,1 CARS,false,false,none,none,never,none
+870340,full,1 CARS,1 CARS,false,false,none,none,never,none
+870350,full,1 CARS,1 CARS,false,false,none,none,never,none
+870360,full,1 CARS,1 CARS,false,false,none,none,never,none
+870370,none,1 CARS,1 CARS,false,false,none,none,never,none
+870380,full,1 CARS,1 CARS,false,false,none,none,never,none
+870390,full,1 CARS,1 CARS,false,false,none,none,never,none
+870410,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none
+870421,full,1 CARS,1 CARS,false,false,none,none,never,none
+870422,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none
+870423,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none
+870431,full,1 CARS,1 CARS,false,false,none,none,never,none
+870432,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none
+870441,full,1 CARS,1 CARS,false,false,none,none,never,none
+870442,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none
+870443,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none
+870451,none,1 CARS,1 CARS,false,false,none,none,never,none
+870452,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none
+870460,full,1 CARS,1 CARS,false,false,full,none,never,none
+870490,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,never,none
+870510,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+870520,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+870530,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none
+870540,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none
+870590,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,partial,none,2025-08-18,none
+870600,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,partial,partial,2025-08-18,I-B 25%
+870710,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,none,never,none
+870790,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none
+870810,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-03-12,I-B 25%
+870821,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,full,never,none
+870822,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,full,never,none
+870829,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,2025-03-12,I-B 25%
+870830,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none
+870840,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%
+870850,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none
+870870,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none
+870880,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,2025-03-12,I-B 25%
+870891,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none
+870892,none,4 CONTROL,4m CONTROL_METAL,false,false,none,partial,2025-08-18,I-B 25%
+870893,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-08-18,I-B 25%
+870894,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none
+870895,full,2 PARTS_CORE,2 PARTS_CORE,false,false,none,partial,never,none
+870899,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,partial,2025-03-12,I-B 25%
+870911,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none
+870919,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,full,none,never,none
+870990,none,6 HEAVY_VEHICLES,6 HEAVY_VEHICLES,false,false,none,full,never,none
+871000,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none
+871110,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871120,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871130,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none
+871140,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871150,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none
+871160,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none
+871190,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871200,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871310,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871390,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871410,none,4 CONTROL,4m CONTROL_METAL,false,false,none,none,2025-08-18,none
+871420,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871491,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871492,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871493,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871494,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871495,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871496,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871499,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871500,none,4 CONTROL,4 CONTROL,false,false,none,none,never,none
+871610,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+871620,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none
+871631,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none
+871639,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-08-18,I-B 25%
+871640,none,6 HEAVY_VEHICLES,4 CONTROL,false,false,none,none,never,none
+871680,none,6 HEAVY_VEHICLES,4m CONTROL_METAL,false,false,none,none,2025-03-12,I-B 25%
+871690,partial,3 UNCERTAIN,3 UNCERTAIN,false,false,none,none,2025-08-18,I-B 25%

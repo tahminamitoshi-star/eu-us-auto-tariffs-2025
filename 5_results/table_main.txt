@@ -1,0 +1,24 @@
+Effect on EU exports to the US relative to other non-EU markets, relative to the clean control, in %
+PPML; 95% intervals in brackets; * p<0.10, ** p<0.05, *** p<0.01; clustered by exporter x HS6.
+
+--- Cars ---
+spec                 (1) MAIN      (2) with China   (3) no seasonal FE (4) Jan-Mar 2025 kept
+period                                                                                      
+JanMar25                                                                     +4.4 [-13, +25]
+AprJul25  -30.5*** [-40, -19]  -21.9*** [-33, -8]  -30.8*** [-40, -20]   -30.6*** [-40, -19]
+AugSep25  -30.9*** [-45, -14]    -20.8* [-38, +1]    -31.3** [-49, -8]   -30.8*** [-44, -14]
+OctDec25     -27.0* [-48, +3]    -16.8 [-42, +19]      -20.4 [-40, +6]      -26.9* [-48, +2]
+JanMar26     -17.8 [-41, +14]     -5.3 [-35, +39]     -23.7* [-42, +0]      -17.9 [-41, +14]
+AprJun26     -26.2* [-47, +3]    -12.9 [-40, +27]      -26.3 [-49, +6]      -26.2* [-47, +3]
+
+--- Core car parts ---
+spec             (1) MAIN   (2) with China (3) no seasonal FE (4) Jan-Mar 2025 kept
+period                                                                             
+JanMar25                                                             -6.8 [-16, +4]
+AprJul25  +1.0 [-10, +13]   +0.8 [-9, +12]      -0.7 [-9, +9]       +1.2 [-10, +14]
+AugSep25   +5.2 [-7, +18]   +5.9 [-5, +18]     +5.9 [-7, +20]        +5.4 [-7, +19]
+OctDec25  +4.8 [-11, +24]  +3.2 [-12, +21]     +5.3 [-9, +21]       +4.8 [-11, +24]
+JanMar26   -4.0 [-13, +6]   -3.0 [-12, +7]     -3.0 [-13, +8]        -4.1 [-13, +6]
+AprJun26   -7.9 [-21, +7]   -6.2 [-19, +8]   -11.6* [-23, +1]        -7.8 [-21, +7]
+
+Observations: (1) MAIN 723,540; (2) with China 725,612; (3) no seasonal FE 723,540; (4) Jan-Mar 2025 kept 778,746
