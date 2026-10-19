@@ -81,6 +81,7 @@ The step numbers follow the author's research log; each script's first lines say
 | step39 | Observations and clusters for Table 2; weight per car | Table 2, Section 4.4 |
 | step40 | US normal duties of control products; tariff wedge by period and the implied response | Section 4.6, Table 7 |
 | step41 | Direct test of cars against core parts, April-July window, estimate without light trucks, jackknife over car codes, exporter Holm p-values for the second period, full product crosswalk | Sections 4.1, 4.2, 4.5, Tables 2, 4, 6, Appendix B |
+| step42 | Redraws Figure 1 from the saved event-study estimates (no re-estimation), with the retroactive date of the agreed 15% rate marked | Figure 1 |
 
 `step38_placebo_parallel.py` is the first version of the placebo run; it uses too much memory on an ordinary PC and is kept only because its random draws are the same as those of step38b. Use step38b.
 
